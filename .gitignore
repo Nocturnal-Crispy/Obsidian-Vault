@@ -1,0 +1,5 @@
+# Plugin secrets
+.obsidian/plugins/github-gitless-sync/data.json
+
+# Node modules in plugins
+.obsidian/plugins/*/node_modules/

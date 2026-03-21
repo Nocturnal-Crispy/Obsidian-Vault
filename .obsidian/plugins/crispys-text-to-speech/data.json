@@ -1,0 +1,6 @@
+{
+  "piperBinaryPath": "/home/mcrispen/.local/share/piper/piper",
+  "modelPath": "/home/mcrispen/.local/share/piper/models/en_US-lessac-medium.onnx",
+  "outputTempPath": "/tmp",
+  "defaultModel": "en_US-lessac-medium"
+}

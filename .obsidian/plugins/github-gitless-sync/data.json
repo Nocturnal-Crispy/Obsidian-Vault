@@ -1,0 +1,17 @@
+{
+  "firstSync": false,
+  "githubToken": "",
+  "githubOwner": "Nocturnal-Crispy",
+  "githubRepo": "Obsidian-Vault",
+  "githubBranch": "main",
+  "syncStrategy": "interval",
+  "syncInterval": 1,
+  "syncOnStartup": true,
+  "syncConfigDir": true,
+  "conflictHandling": "ask",
+  "conflictViewMode": "default",
+  "showStatusBarItem": true,
+  "showSyncRibbonButton": true,
+  "showConflictsRibbonButton": true,
+  "enableLogging": false
+}

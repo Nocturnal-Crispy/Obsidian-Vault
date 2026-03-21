@@ -3,3 +3,7 @@
 
 # Node modules in plugins
 .obsidian/plugins/*/node_modules/
+
+
+# Don't include the config at all
+.obsidian/

@@ -1,3 +1,0 @@
-/plan
-/tdd
-/build-fix

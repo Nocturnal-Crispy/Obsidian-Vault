@@ -9,3 +9,9 @@ Ensure the team cross-checks each other, finds edge cases, and outputs a single 
 
 
 /validate-implementation — Breaking Change + Architectural Soundness Validation Prompt
+
+
+
+
+https://github.com/ruvnet/ruflo
+ruflo init

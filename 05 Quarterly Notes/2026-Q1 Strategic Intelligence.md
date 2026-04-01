@@ -40,17 +40,17 @@ Platform dynamics shifted as Microsoft expanded multiplatform, Sony pushed dynam
 
 ## AI Infrastructure Competition
 
-| Company | Q1 Position | Q1 Trend |
-|---------|------------|----------|
-| Nvidia | $4T+ market cap, Vera Rubin shipping, full-stack pivot | Dominant, expanding scope |
-| AMD | $60B Meta deal, Helios platform, MI450/MI455X | Breakthrough quarter |
-| Micron | HBM4 mass production, record revenue, sold out | Essential bottleneck |
-| Anthropic | $19B ARR, Mythos model, $380B IPO prep | Capabilities leader |
-| OpenAI | $25B ARR, GPT-5.4, safety narrative challenged | Revenue leader |
-| Google | Gemini in Siri, Live Translate | Consumer distribution |
-| Apple | Siri delayed to iOS 27 | AI timeline slipping |
-| Meta | $60B AMD deal, 6GW commitment | Largest AI infra buyer |
-| Intel | Xeon 6 in Nvidia systems | Collaborative niche |
+| Company   | Q1 Position                                            | Q1 Trend                  |
+| --------- | ------------------------------------------------------ | ------------------------- |
+| Nvidia    | $4T+ market cap, Vera Rubin shipping, full-stack pivot | Dominant, expanding scope |
+| AMD       | $60B Meta deal, Helios platform, MI450/MI455X          | Breakthrough quarter      |
+| Micron    | HBM4 mass production, record revenue, sold out         | Essential bottleneck      |
+| Anthropic | $19B ARR, Mythos model, $380B IPO prep                 | Capabilities leader       |
+| OpenAI    | $25B ARR, GPT-5.4, safety narrative challenged         | Revenue leader            |
+| Google    | Gemini in Siri, Live Translate                         | Consumer distribution     |
+| Apple     | Siri delayed to iOS 27                                 | AI timeline slipping      |
+| Meta      | $60B AMD deal, 6GW commitment                          | Largest AI infra buyer    |
+| Intel     | Xeon 6 in Nvidia systems                               | Collaborative niche       |
 
 ## Market Consolidation
 

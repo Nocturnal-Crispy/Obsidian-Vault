@@ -1,6 +1,3 @@
-Kong Service Mesh
-- Do we use Konnect or will this be a self hosted control plane?
-# Client Requirements Checklist
 _Day One · Senior Cloud Consultant_
 
 ## 01 Project Scope & Objectives

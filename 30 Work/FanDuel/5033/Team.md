@@ -4,4 +4,4 @@ Mihai - Authentication stuff.
 
 JB Doyon
 Anthony Luc
-Neel Patil
+Neel Patil - Onboarding Buddy

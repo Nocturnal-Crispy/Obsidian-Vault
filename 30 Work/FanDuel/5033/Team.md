@@ -5,3 +5,4 @@ Mihai - Authentication stuff.
 JB Doyon
 Anthony Luc
 Neel Patil - Onboarding Buddy
+Tobias Paraiso

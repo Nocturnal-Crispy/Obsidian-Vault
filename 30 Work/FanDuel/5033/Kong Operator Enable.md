@@ -114,6 +114,7 @@ plops-lab-use1
 plops-test-use1
 poc-tools-us-use1-management
 pricing-dev-use2
+production
 racing-dev-use2
 racing-int-use2
 racing-prd-use2
@@ -137,6 +138,9 @@ sbmm-stg-use2
 security-dev-use1
 security-prd-use1
 security-stg-use1
+security-test-use1
+sp-com-fanduel-dev1-eks-cluster
+sp-com-fanduel-prod1-eks-cluster
 sports-prd-ar1
 sports-prd-az1
 sports-prd-az2
@@ -165,3 +169,12 @@ sports-prd-va1
 sports-prd-vt1
 sports-prd-wv1
 sports-prd-wy1
+sre-eks-argo-workflow
+sre-eks-operations
+sre-eks-ops-use1-dev
+sre-eks-ops-use2-prd
+sre-eks-use1-dev
+sre-eks-use2-prd
+test
+ververica-use1-dev
+ververica-use1-prd

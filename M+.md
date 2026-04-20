@@ -1,3 +1,3 @@
-1 mg
-1 skyreach
-1 Pit
+2 Magistars
+1 Skyreach
+1 Pit of Sauron

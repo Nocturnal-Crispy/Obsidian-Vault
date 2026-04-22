@@ -106,10 +106,10 @@ pdm-tools-use1
 ~~plateng-test-use1~~
 ~~plateng-test-use2~~
 ~~plateng-test2-use1~~
-plops-lab-cloud-use1
-plops-lab-cloud-use2
-plops-lab-use1
-plops-test-use1
+~~plops-lab-cloud-use1~~
+~~plops-lab-cloud-use2~~
+~~plops-lab-use1~~
+~~plops-test-use1~~
 poc-tools-us-use1-management
 pricing-dev-use2
 racing-dev-use2

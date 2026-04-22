@@ -83,10 +83,6 @@
 ~~pdm-prf-use1~~
 ~~pdm-stg-use1~~
 ~~pdm-zeta-use1~~
-pdm-chris-use2
-pdm-dwhigham-use1
-pdm-jaggi-use1
-pdm-kylec-use1
 pdm-prd-use1
 pdm-test-use1
 pdm-test-use2
@@ -106,10 +102,6 @@ pdm-tools-use1
 ~~plateng-test-use1~~
 ~~plateng-test-use2~~
 ~~plateng-test2-use1~~
-~~plops-lab-cloud-use1~~
-~~plops-lab-cloud-use2~~
-~~plops-lab-use1~~
-~~plops-test-use1~~
 ~~pricing-dev-use2~~
 ~~racing-dev-use2~~
 ~~racing-int-use2~~
@@ -163,12 +155,7 @@ sports-prd-va1
 sports-prd-vt1
 sports-prd-wv1
 sports-prd-wy1
-sre-eks-argo-workflow
-sre-eks-operations
-sre-eks-ops-use1-dev
-sre-eks-ops-use2-prd
-sre-eks-use1-dev
-sre-eks-use2-prd
+
 
 
 
@@ -182,3 +169,17 @@ sp-com-fanduel-dev1-eks-cluster
 sp-com-fanduel-prod1-eks-cluster
 ververica-use1-dev
 ververica-use1-prd
+pdm-chris-use2
+pdm-dwhigham-use1
+pdm-jaggi-use1
+pdm-kylec-use1
+sre-eks-argo-workflow
+sre-eks-operations
+sre-eks-ops-use1-dev
+sre-eks-ops-use2-prd
+sre-eks-use1-dev
+sre-eks-use2-prd
+~~plops-lab-cloud-use1~~
+~~plops-lab-cloud-use2~~
+~~plops-lab-use1~~
+~~plops-test-use1~~

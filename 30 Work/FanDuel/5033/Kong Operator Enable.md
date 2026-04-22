@@ -62,7 +62,7 @@ couchbase-dev
 ~~data-dev-use1~~
 ~~data-prd-use1~~
 ~~data-stg-use1~~
-development
+
 ~~fantasy-dev-use1~~
 ~~fantasy-int-use1~~
 ~~fantasy-prd-use1~~
@@ -97,7 +97,6 @@ pdm-tools-use1
 ~~pe-prd-use1~~
 ~~pe-stg-use1~~
 ~~pe-test-use1~~
-perftest
 ~~plateng-dev-in~~
 ~~plateng-dev-mi2~~
 ~~plateng-dev-use1~~
@@ -114,7 +113,6 @@ plops-lab-use1
 plops-test-use1
 poc-tools-us-use1-management
 pricing-dev-use2
-production
 racing-dev-use2
 racing-int-use2
 racing-prd-use2
@@ -175,6 +173,12 @@ sre-eks-ops-use1-dev
 sre-eks-ops-use2-prd
 sre-eks-use1-dev
 sre-eks-use2-prd
-test
 ververica-use1-dev
 ververica-use1-prd
+
+
+
+development
+perftest
+production
+test

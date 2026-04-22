@@ -135,8 +135,6 @@ security-dev-use1
 security-prd-use1
 security-stg-use1
 security-test-use1
-sp-com-fanduel-dev1-eks-cluster
-sp-com-fanduel-prod1-eks-cluster
 sports-prd-ar1
 sports-prd-az1
 sports-prd-az2
@@ -181,3 +179,5 @@ perftest
 production
 test
 poc-tools-us-use1-management
+sp-com-fanduel-dev1-eks-cluster
+sp-com-fanduel-prod1-eks-cluster

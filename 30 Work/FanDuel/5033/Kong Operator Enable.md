@@ -169,8 +169,7 @@ sre-eks-ops-use1-dev
 sre-eks-ops-use2-prd
 sre-eks-use1-dev
 sre-eks-use2-prd
-ververica-use1-dev
-ververica-use1-prd
+
 
 
 
@@ -181,3 +180,5 @@ test
 poc-tools-us-use1-management
 sp-com-fanduel-dev1-eks-cluster
 sp-com-fanduel-prod1-eks-cluster
+ververica-use1-dev
+ververica-use1-prd

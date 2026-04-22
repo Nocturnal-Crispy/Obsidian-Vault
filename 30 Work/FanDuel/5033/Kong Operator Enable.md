@@ -49,7 +49,7 @@
 ~~central-prd-vt1~~
 ~~central-prd-wv1~~
 ~~central-prd-wy1~~
-couchbase-dev
+~~couchbase-dev~~
 ~~cpe-ca-prd-use1~~
 ~~cpe-ca-prd-use2~~
 ~~cpe-crt-use1~~

@@ -111,10 +111,10 @@ pdm-tools-use1
 ~~plops-lab-use1~~
 ~~plops-test-use1~~
 ~~pricing-dev-use2~~
-racing-dev-use2
-racing-int-use2
-racing-prd-use2
-racing-stg-use2
+~~racing-dev-use2~~
+~~racing-int-use2~~
+~~racing-prd-use2~~
+~~racing-stg-use2~~
 rnt-dev-use2
 rnt-int-use2
 rnt-prd-use2

@@ -70,10 +70,10 @@
 ~~ml-dev-use2~~
 ~~ml-prd-use2~~
 ~~ml-stg-use2~~
-mp-dev-use1
-mp-int-use1
-mp-prd-use1
-mp-stg-use1
+~~mp-dev-use1~~
+~~mp-int-use1~~
+~~mp-prd-use1~~
+~~mp-stg-use1~~
 ~~nv-crt-use1~~
 ~~nv-dev-use1~~
 ~~nv-int-use1~~

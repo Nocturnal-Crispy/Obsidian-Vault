@@ -62,7 +62,6 @@ couchbase-dev
 ~~data-dev-use1~~
 ~~data-prd-use1~~
 ~~data-stg-use1~~
-
 ~~fantasy-dev-use1~~
 ~~fantasy-int-use1~~
 ~~fantasy-prd-use1~~

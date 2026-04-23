@@ -107,10 +107,10 @@ pdm-tools-use1
 ~~racing-int-use2~~
 ~~racing-prd-use2~~
 ~~racing-stg-use2~~
-rnt-dev-use2
-rnt-int-use2
-rnt-prd-use2
-rnt-stg-use2
+~~rnt-dev-use2~~
+~~rnt-int-use2~~
+~~rnt-prd-use2~~
+~~rnt-stg-use2~~
 sb-crt-use1
 sb-crt-use2
 sb-dev-use1

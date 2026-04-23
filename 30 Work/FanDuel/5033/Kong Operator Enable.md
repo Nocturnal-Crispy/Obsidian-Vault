@@ -1,8 +1,4 @@
-pdm-tools-use1
-pdm-prd-use1
-data-dev-use1
-data-prd-use1
-data-stg-use1
+
 adrenaline-dev-use1
 adrenaline-prd-use1
 adrenaline-stg-use1 

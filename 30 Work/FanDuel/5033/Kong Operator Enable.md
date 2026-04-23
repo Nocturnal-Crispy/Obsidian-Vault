@@ -123,10 +123,10 @@ pdm-tools-use1
 ~~sb-tools-prd-use2~~
 ~~sb-tools-stg-use2~~
 ~~sbmm-stg-use2~~
-security-dev-use1
-security-prd-use1
-security-stg-use1
-security-test-use1
+~~security-dev-use1~~
+~~security-prd-use1~~
+~~security-stg-use1~~
+~~security-test-use1~~
 sports-prd-ar1
 sports-prd-az1
 sports-prd-az2

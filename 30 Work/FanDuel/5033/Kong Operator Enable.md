@@ -122,7 +122,7 @@ pdm-tools-use1
 ~~sb-test-use2~~
 ~~sb-tools-prd-use2~~
 ~~sb-tools-stg-use2~~
-sbmm-stg-use2
+~~sbmm-stg-use2~~
 security-dev-use1
 security-prd-use1
 security-stg-use1

@@ -1,0 +1,143 @@
+<svg viewBox="0 0 820 1180" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="820" height="1180" fill="#ffffff"/>
+
+  <!-- ===== TITLE ===== -->
+  <text x="30" y="40" font-size="26" font-weight="700" fill="#2b2b2b">How to Build a Raised Bed — 5 ft × 3 ft</text>
+  <text x="30" y="66" font-size="14" fill="#666">Open-top box · ~11¼" deep · 4×4 corner posts · build 4 of these. Dimensions in inches.</text>
+
+  <!-- ============================================================= -->
+  <!-- PANEL A: ASSEMBLED ISOMETRIC VIEW -->
+  <!-- ============================================================= -->
+  <rect x="30" y="80" width="760" height="330" rx="8" fill="#fbf7f0" stroke="#d9d2c5" stroke-width="1.5"/>
+  <text x="50" y="110" font-size="15" font-weight="700" fill="#444">① Assembled view (open top)</text>
+
+  <!-- soil/top opening parallelogram -->
+  <polygon points="200,250 560,250 670,195 310,195" fill="#b08968" stroke="#6b4f3a" stroke-width="2"/>
+  <text x="415" y="228" font-size="12" fill="#5b3f2a" text-anchor="middle" font-style="italic">fill with soil mix</text>
+
+  <!-- right short face -->
+  <polygon points="560,250 670,195 670,265 560,320" fill="#cdb290" stroke="#6b4f3a" stroke-width="2"/>
+  <!-- front long face -->
+  <polygon points="200,250 560,250 560,320 200,320" fill="#e6d2b5" stroke="#6b4f3a" stroke-width="2"/>
+
+  <!-- corner posts (front two, visible inside) -->
+  <rect x="202" y="252" width="16" height="66" fill="#5a4530"/>
+  <rect x="542" y="252" width="16" height="66" fill="#5a4530"/>
+  <!-- back posts (small, at far corners) -->
+  <rect x="654" y="197" width="14" height="66" fill="#4a3826"/>
+
+  <!-- dimension: length 60 in -->
+  <line x1="200" y1="345" x2="560" y2="345" stroke="#4a6b8a" stroke-width="1.5"/>
+  <line x1="200" y1="338" x2="200" y2="352" stroke="#4a6b8a" stroke-width="1.5"/>
+  <line x1="560" y1="338" x2="560" y2="352" stroke="#4a6b8a" stroke-width="1.5"/>
+  <text x="380" y="368" font-size="13" font-weight="600" fill="#4a6b8a" text-anchor="middle">60 in  (5 ft) — long sides</text>
+
+  <!-- dimension: depth 36 in -->
+  <line x1="575" y1="243" x2="685" y2="188" stroke="#4a6b8a" stroke-width="1.5"/>
+  <text x="690" y="205" font-size="13" font-weight="600" fill="#4a6b8a">36 in (3 ft)</text>
+  <text x="690" y="222" font-size="13" font-weight="600" fill="#4a6b8a">end pieces</text>
+
+  <!-- dimension: depth 11.25 in -->
+  <line x1="183" y1="250" x2="183" y2="320" stroke="#4a6b8a" stroke-width="1.5"/>
+  <line x1="176" y1="250" x2="190" y2="250" stroke="#4a6b8a" stroke-width="1.5"/>
+  <line x1="176" y1="320" x2="190" y2="320" stroke="#4a6b8a" stroke-width="1.5"/>
+  <text x="172" y="289" font-size="13" font-weight="600" fill="#4a6b8a" text-anchor="end">11¼"</text>
+
+  <text x="50" y="392" font-size="12" fill="#777">A 2×12 board is actually 11¼" tall — one board per side, no stacking needed.</text>
+
+  <!-- ============================================================= -->
+  <!-- PANEL B: TOP-DOWN REACH PLAN -->
+  <!-- ============================================================= -->
+  <rect x="30" y="430" width="365" height="320" rx="8" fill="#fbf7f0" stroke="#d9d2c5" stroke-width="1.5"/>
+  <text x="50" y="460" font-size="15" font-weight="700" fill="#444">② Top-down — easy reach</text>
+
+  <!-- bed rectangle 60x36 at 4.3px/in -> 258 x 155 -->
+  <rect x="70" y="520" width="258" height="155" fill="#e6d2b5" stroke="#6b4f3a" stroke-width="2.5"/>
+  <!-- corner posts -->
+  <rect x="70" y="520" width="13" height="13" fill="#5a4530"/>
+  <rect x="315" y="520" width="13" height="13" fill="#5a4530"/>
+  <rect x="70" y="662" width="13" height="13" fill="#5a4530"/>
+  <rect x="315" y="662" width="13" height="13" fill="#5a4530"/>
+  <!-- centerline -->
+  <line x1="70" y1="597.5" x2="328" y2="597.5" stroke="#7a8a3a" stroke-width="1.2" stroke-dasharray="5 4"/>
+
+  <!-- reach arrows -->
+  <line x1="199" y1="522" x2="199" y2="596" stroke="#7a8a3a" stroke-width="1.5"/>
+  <polygon points="199,594 195,586 203,586" fill="#7a8a3a"/>
+  <polygon points="199,524 195,532 203,532" fill="#7a8a3a"/>
+  <line x1="199" y1="599" x2="199" y2="673" stroke="#7a8a3a" stroke-width="1.5"/>
+  <polygon points="199,671 195,663 203,663" fill="#7a8a3a"/>
+  <polygon points="199,601 195,609 203,609" fill="#7a8a3a"/>
+  <text x="208" y="565" font-size="12" font-weight="600" fill="#5f6d2e">18"</text>
+  <text x="208" y="642" font-size="12" font-weight="600" fill="#5f6d2e">18"</text>
+
+  <!-- dims -->
+  <text x="199" y="700" font-size="12" font-weight="600" fill="#4a6b8a" text-anchor="middle">60 in</text>
+  <text x="350" y="601" font-size="12" font-weight="600" fill="#4a6b8a">36 in</text>
+  <text x="50" y="730" font-size="12" fill="#777">Reach the center from either side — no stepping in.</text>
+
+  <!-- ============================================================= -->
+  <!-- PANEL C: CORNER JOINT DETAIL -->
+  <!-- ============================================================= -->
+  <rect x="410" y="430" width="380" height="320" rx="8" fill="#fbf7f0" stroke="#d9d2c5" stroke-width="1.5"/>
+  <text x="430" y="460" font-size="15" font-weight="700" fill="#444">③ Corner joint (top-down)</text>
+
+  <!-- horizontal board (long side) -->
+  <rect x="540" y="510" width="170" height="26" fill="#e6d2b5" stroke="#6b4f3a" stroke-width="1.5"/>
+  <!-- vertical board (end) -->
+  <rect x="540" y="510" width="26" height="160" fill="#dcc6a4" stroke="#6b4f3a" stroke-width="1.5"/>
+  <!-- 4x4 post nestled inside -->
+  <rect x="568" y="538" width="46" height="46" fill="#5a4530"/>
+  <text x="591" y="566" font-size="10" fill="#e6d2b5" text-anchor="middle">4×4</text>
+
+  <!-- screws -->
+  <circle cx="585" cy="523" r="3.5" fill="#333"/>
+  <circle cx="605" cy="523" r="3.5" fill="#333"/>
+  <circle cx="553" cy="555" r="3.5" fill="#333"/>
+  <circle cx="553" cy="575" r="3.5" fill="#333"/>
+
+  <!-- callout labels -->
+  <text x="640" y="527" font-size="12" fill="#333">← 60" long side</text>
+  <text x="470" y="660" font-size="12" fill="#333">36" end ↑</text>
+  <text x="630" y="566" font-size="12" font-weight="600" fill="#5a4530">corner post</text>
+  <text x="600" y="610" font-size="11.5" fill="#333">2–3 deck screws</text>
+  <text x="600" y="626" font-size="11.5" fill="#333">through each board</text>
+  <text x="430" y="730" font-size="12" fill="#777">Post sits inside the corner; both boards screw into it.</text>
+
+  <!-- ============================================================= -->
+  <!-- PANEL D: CUT LIST + SHOPPING -->
+  <!-- ============================================================= -->
+  <rect x="30" y="770" width="760" height="390" rx="8" fill="#fbf7f0" stroke="#d9d2c5" stroke-width="1.5"/>
+  <text x="50" y="800" font-size="15" font-weight="700" fill="#444">④ Cut list &amp; shopping</text>
+
+  <!-- divider -->
+  <line x1="410" y1="815" x2="410" y2="1045" stroke="#e0d8c8" stroke-width="1.5"/>
+
+  <!-- LEFT: per bed cut list -->
+  <text x="50" y="832" font-size="13.5" font-weight="700" fill="#6b4f3a">Cut list — PER BED</text>
+  <text x="50" y="860" font-size="13" fill="#333">2 × side  @ 60"  — from 2×12</text>
+  <text x="50" y="886" font-size="13" fill="#333">2 × end  @ 36"  — from 2×12</text>
+  <text x="50" y="912" font-size="13" fill="#333">4 × corner post @ 11¼"  — from 4×4</text>
+  <text x="50" y="938" font-size="13" fill="#333">~24 × 3" exterior / deck screws</text>
+  <text x="50" y="975" font-size="12" fill="#777">Tip: cut posts to ~18" instead and bury the</text>
+  <text x="50" y="991" font-size="12" fill="#777">extra 6" below grade to anchor the bed.</text>
+  <text x="50" y="1020" font-size="12" fill="#777">Optional: cap the top edge with 1×4 trim for</text>
+  <text x="50" y="1036" font-size="12" fill="#777">a clean finish and a ledge to sit on.</text>
+
+  <!-- RIGHT: shopping for all 4 -->
+  <text x="430" y="832" font-size="13.5" font-weight="700" fill="#6b4f3a">Buy for ALL 4 BEDS</text>
+  <text x="430" y="860" font-size="13" fill="#333">4 × 10-ft 2×12  → eight 60" sides</text>
+  <text x="430" y="886" font-size="13" fill="#333">4 × 6-ft 2×12  → eight 36" ends</text>
+  <text x="430" y="912" font-size="13" fill="#333">2 × 8-ft 4×4  → sixteen 11¼" posts</text>
+  <text x="430" y="938" font-size="13" fill="#333">1–2 lb box of 3" exterior screws</text>
+  <text x="430" y="964" font-size="13" fill="#333">~2 cu yds soil mix  (~14 cu ft / bed)</text>
+  <text x="430" y="1000" font-size="12" fill="#777">Wood: cedar (rot-resistant, food-safe) or</text>
+  <text x="430" y="1016" font-size="12" fill="#777">untreated pine/fir (cheaper, ~5–7 yr life).</text>
+
+  <!-- build steps strip -->
+  <line x1="50" y1="1062" x2="770" y2="1062" stroke="#e0d8c8" stroke-width="1.5"/>
+  <text x="50" y="1086" font-size="13.5" font-weight="700" fill="#6b4f3a">Assembly</text>
+  <text x="50" y="1110" font-size="12.5" fill="#333">1. Cut all pieces.   2. Stand a post in each corner; screw a 60" side then a 36" end into it.</text>
+  <text x="50" y="1132" font-size="12.5" fill="#333">3. Repeat at all 4 corners to close the rectangle.   4. Level the ground, lay cardboard, set the bed.</text>
+  <text x="50" y="1154" font-size="12.5" fill="#333">5. Fill with soil mix and plant.</text>
+</svg>

@@ -1,0 +1,111 @@
+<svg viewBox="0 0 820 745" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffd166"/><stop offset="100%" stop-color="#f4a259"/>
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="820" height="745" fill="#ffffff"/>
+
+  <!-- TITLE -->
+  <text x="30" y="38" font-size="24" font-weight="700" fill="#2b2b2b">Planting Plan — 4 Mixed Beds (5 ft × 3 ft)</text>
+  <text x="30" y="60" font-size="13" fill="#666">Polyculture for resilience · tomatoes &amp; peppers split across beds · onions, lettuce &amp; herbs interplanted · all beds full sun · north = back row</text>
+
+  <!-- LEGEND -->
+  <text x="33" y="100" font-size="12" font-weight="700" fill="#444">KEY</text>
+  <circle cx="78" cy="96" r="11" fill="#6a994e"/><circle cx="78" cy="96" r="4" fill="#d1495b"/><text x="94" y="100" font-size="12" fill="#333">Tomato</text>
+  <circle cx="178" cy="96" r="8" fill="#5a8f3a"/><circle cx="178" cy="96" r="3" fill="#e09f3e"/><text x="192" y="100" font-size="12" fill="#333">Pepper</text>
+  <circle cx="278" cy="96" r="4.5" fill="#9b6dc4"/><text x="288" y="100" font-size="12" fill="#333">Onion</text>
+  <circle cx="372" cy="96" r="8" fill="#88c057"/><circle cx="372" cy="96" r="3" fill="#5a8f3a"/><text x="385" y="100" font-size="12" fill="#333">Lettuce</text>
+  <circle cx="470" cy="96" r="6" fill="#2e5e2e"/><text x="482" y="100" font-size="12" fill="#333">Basil</text>
+  <circle cx="558" cy="96" r="6" fill="#f6a72a"/><text x="570" y="100" font-size="12" fill="#333">Marigold</text>
+
+  <!-- ===================== BED 1 (Tomato mix) ===================== -->
+  <g>
+    <rect x="40" y="150" width="340" height="200" rx="6" fill="#efe6d8" stroke="#6b4f3a" stroke-width="3"/>
+    <rect x="40" y="150" width="340" height="26" rx="6" fill="#6b4f3a"/>
+    <text x="50" y="168" font-size="13" font-weight="700" fill="#fff">BED 1 · TOMATO MIX</text>
+    <circle cx="362" cy="163" r="9" fill="url(#sun)"/>
+    <!-- onions left border -->
+    <g fill="#9b6dc4"><circle cx="60" cy="196" r="4.5"/><circle cx="60" cy="214" r="4.5"/><circle cx="60" cy="232" r="4.5"/><circle cx="60" cy="250" r="4.5"/><circle cx="60" cy="268" r="4.5"/><circle cx="60" cy="286" r="4.5"/><circle cx="60" cy="304" r="4.5"/><circle cx="60" cy="322" r="4.5"/></g>
+    <!-- tomatoes back -->
+    <circle cx="120" cy="212" r="16" fill="#6a994e"/><circle cx="120" cy="212" r="6" fill="#d1495b"/>
+    <circle cx="288" cy="212" r="16" fill="#6a994e"/><circle cx="288" cy="212" r="6" fill="#d1495b"/>
+    <!-- basil -->
+    <g fill="#2e5e2e"><circle cx="204" cy="214" r="6"/><circle cx="162" cy="252" r="6"/><circle cx="246" cy="252" r="6"/></g>
+    <!-- lettuce front -->
+    <g fill="#88c057"><circle cx="108" cy="330" r="8"/><circle cx="152" cy="330" r="8"/><circle cx="196" cy="330" r="8"/><circle cx="240" cy="330" r="8"/><circle cx="284" cy="330" r="8"/></g>
+    <!-- marigold -->
+    <circle cx="356" cy="196" r="6" fill="#f6a72a"/><circle cx="356" cy="330" r="6" fill="#f6a72a"/>
+  </g>
+  <text x="40" y="368" font-size="11" fill="#555">2 tomatoes (back) · 3 basil · ~12 onions (L edge) · 5 lettuce (shaded front) · marigold corners</text>
+
+  <!-- ===================== BED 2 (Pepper mix) ===================== -->
+  <g>
+    <rect x="430" y="150" width="340" height="200" rx="6" fill="#efe6d8" stroke="#6b4f3a" stroke-width="3"/>
+    <rect x="430" y="150" width="340" height="26" rx="6" fill="#6b4f3a"/>
+    <text x="440" y="168" font-size="13" font-weight="700" fill="#fff">BED 2 · PEPPER MIX</text>
+    <circle cx="752" cy="163" r="9" fill="url(#sun)"/>
+    <!-- onion back row -->
+    <g fill="#9b6dc4"><circle cx="466" cy="198" r="4.5"/><circle cx="506" cy="198" r="4.5"/><circle cx="546" cy="198" r="4.5"/><circle cx="586" cy="198" r="4.5"/><circle cx="626" cy="198" r="4.5"/><circle cx="666" cy="198" r="4.5"/><circle cx="706" cy="198" r="4.5"/></g>
+    <!-- peppers center -->
+    <g><circle cx="512" cy="254" r="12" fill="#5a8f3a"/><circle cx="512" cy="254" r="4.5" fill="#e09f3e"/>
+       <circle cx="596" cy="254" r="12" fill="#5a8f3a"/><circle cx="596" cy="254" r="4.5" fill="#e09f3e"/>
+       <circle cx="680" cy="254" r="12" fill="#5a8f3a"/><circle cx="680" cy="254" r="4.5" fill="#e09f3e"/></g>
+    <!-- basil flanks -->
+    <g fill="#2e5e2e"><circle cx="452" cy="254" r="6"/><circle cx="740" cy="254" r="6"/></g>
+    <!-- lettuce front -->
+    <g fill="#88c057"><circle cx="478" cy="330" r="8"/><circle cx="528" cy="330" r="8"/><circle cx="578" cy="330" r="8"/><circle cx="628" cy="330" r="8"/><circle cx="678" cy="330" r="8"/></g>
+    <!-- marigold -->
+    <circle cx="744" cy="196" r="6" fill="#f6a72a"/><circle cx="450" cy="330" r="6" fill="#f6a72a"/>
+  </g>
+  <text x="430" y="368" font-size="11" fill="#555">3 peppers (center) · ~15 onions (back) · 5 lettuce (front) · 2 basil · marigolds</text>
+
+  <!-- ===================== BED 3 (Tomato mix #2) ===================== -->
+  <g>
+    <rect x="40" y="430" width="340" height="200" rx="6" fill="#efe6d8" stroke="#6b4f3a" stroke-width="3"/>
+    <rect x="40" y="430" width="340" height="26" rx="6" fill="#6b4f3a"/>
+    <text x="50" y="448" font-size="13" font-weight="700" fill="#fff">BED 3 · TOMATO MIX</text>
+    <circle cx="362" cy="443" r="9" fill="url(#sun)"/>
+    <!-- onions right border -->
+    <g fill="#9b6dc4"><circle cx="360" cy="476" r="4.5"/><circle cx="360" cy="494" r="4.5"/><circle cx="360" cy="512" r="4.5"/><circle cx="360" cy="530" r="4.5"/><circle cx="360" cy="548" r="4.5"/><circle cx="360" cy="566" r="4.5"/><circle cx="360" cy="584" r="4.5"/><circle cx="360" cy="602" r="4.5"/></g>
+    <!-- tomatoes back -->
+    <circle cx="120" cy="492" r="16" fill="#6a994e"/><circle cx="120" cy="492" r="6" fill="#d1495b"/>
+    <circle cx="288" cy="492" r="16" fill="#6a994e"/><circle cx="288" cy="492" r="6" fill="#d1495b"/>
+    <!-- basil -->
+    <circle cx="204" cy="494" r="6" fill="#2e5e2e"/>
+    <!-- lettuce gaps + front -->
+    <g fill="#88c057"><circle cx="162" cy="532" r="8"/><circle cx="246" cy="532" r="8"/><circle cx="204" cy="562" r="8"/>
+       <circle cx="108" cy="610" r="8"/><circle cx="152" cy="610" r="8"/><circle cx="196" cy="610" r="8"/><circle cx="240" cy="610" r="8"/><circle cx="284" cy="610" r="8"/></g>
+    <!-- marigold -->
+    <circle cx="62" cy="476" r="6" fill="#f6a72a"/><circle cx="62" cy="610" r="6" fill="#f6a72a"/>
+  </g>
+  <text x="40" y="648" font-size="11" fill="#555">2 tomatoes (back) · 8 lettuce (front + gaps) · ~12 onions (R edge) · basil · marigold corners</text>
+
+  <!-- ===================== BED 4 (Pepper mix #2) ===================== -->
+  <g>
+    <rect x="430" y="430" width="340" height="200" rx="6" fill="#efe6d8" stroke="#6b4f3a" stroke-width="3"/>
+    <rect x="430" y="430" width="340" height="26" rx="6" fill="#6b4f3a"/>
+    <text x="440" y="448" font-size="13" font-weight="700" fill="#fff">BED 4 · PEPPER MIX</text>
+    <circle cx="752" cy="443" r="9" fill="url(#sun)"/>
+    <!-- onions both side borders -->
+    <g fill="#9b6dc4"><circle cx="452" cy="476" r="4.5"/><circle cx="452" cy="496" r="4.5"/><circle cx="452" cy="516" r="4.5"/><circle cx="452" cy="536" r="4.5"/><circle cx="452" cy="556" r="4.5"/><circle cx="452" cy="576" r="4.5"/>
+       <circle cx="748" cy="476" r="4.5"/><circle cx="748" cy="496" r="4.5"/><circle cx="748" cy="516" r="4.5"/><circle cx="748" cy="536" r="4.5"/><circle cx="748" cy="556" r="4.5"/><circle cx="748" cy="576" r="4.5"/></g>
+    <!-- peppers center -->
+    <g><circle cx="512" cy="510" r="12" fill="#5a8f3a"/><circle cx="512" cy="510" r="4.5" fill="#e09f3e"/>
+       <circle cx="596" cy="510" r="12" fill="#5a8f3a"/><circle cx="596" cy="510" r="4.5" fill="#e09f3e"/>
+       <circle cx="680" cy="510" r="12" fill="#5a8f3a"/><circle cx="680" cy="510" r="4.5" fill="#e09f3e"/></g>
+    <!-- basil + back lettuce -->
+    <g fill="#2e5e2e"><circle cx="512" cy="478" r="6"/><circle cx="680" cy="478" r="6"/></g>
+    <g fill="#88c057"><circle cx="556" cy="478" r="8"/><circle cx="640" cy="478" r="8"/>
+       <circle cx="478" cy="608" r="8"/><circle cx="528" cy="608" r="8"/><circle cx="578" cy="608" r="8"/><circle cx="628" cy="608" r="8"/><circle cx="678" cy="608" r="8"/></g>
+    <!-- marigold -->
+    <circle cx="450" cy="608" r="6" fill="#f6a72a"/><circle cx="742" cy="608" r="6" fill="#f6a72a"/>
+  </g>
+  <text x="430" y="648" font-size="11" fill="#555">3 peppers (center) · ~12 onions (side edges) · 7 lettuce · 2 basil · marigolds</text>
+
+  <!-- ===================== RESILIENCE NOTES ===================== -->
+  <rect x="40" y="668" width="730" height="62" rx="8" fill="#f3f6ec" stroke="#cdd9b8" stroke-width="1.5"/>
+  <text x="55" y="690" font-size="13" font-weight="700" fill="#5f6d2e">Why it's mixed</text>
+  <text x="55" y="709" font-size="11.5" fill="#444">Tomatoes &amp; peppers are split across two beds each — if blight or pests hit one bed, the other crop survives.</text>
+  <text x="55" y="725" font-size="11.5" fill="#444">Onion borders repel aphids · lettuce fills shaded gaps as living mulch · basil + marigold confuse pests and pull in pollinators.</text>
+</svg>

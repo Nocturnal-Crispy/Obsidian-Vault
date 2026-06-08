@@ -2,6 +2,8 @@
 
 Planted:
 
-| Where | Acres |     |
-| ----- | ----- | --- |
-|       |       |     |
+| Where          | Acres | Crop     | When     |
+| -------------- | ----- | -------- | -------- |
+| Whiteside Road | 12    | Soybeans | 06/04/26 |
+| Straub Road    | 15    | Soybeans | 06/06/26 |
+

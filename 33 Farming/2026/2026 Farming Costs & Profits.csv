@@ -1,0 +1,49 @@
+2026 Farming Ventures — Costs & Profits,,,,,
+Income Statement (P&L)   •   Season 2026,,,,,
+"Yellow = type here.  White = auto-calculated.  Crop sales pull from the Sales tab; every expense line pulls from the Expenses tab. Use the No Crop column for costs not tied to a crop (repairs, overhead). The TOTAL column counts every logged cost. Rename Crop 2 / Crop 3 below and pick the same names in the logs.",,,,,
+,,,,,
+ITEM,Soybeans,Corn,Hay,No Crop,TOTAL (all crops)
+PRODUCTION,,,,,
+Acres planted,26.00,,,,26.00
+Total production (units harvested),0.00,,,,0.00
+,,,,,
+REVENUE,,,,,
+Crop sales  (from Sales tab),$0.00,$0.00,$0.00,$0.00,$0.00
+Government payments,,,,,$0.00
+Crop insurance proceeds,,,,,$0.00
+Other farm income,,,,,$0.00
+TOTAL REVENUE,$0.00,$0.00,$0.00,$0.00,$0.00
+,,,,,
+OPERATING (VARIABLE) EXPENSES,,,,,
+Seed,"$2,025.00",$0.00,$0.00,$0.00,"$2,025.00"
+Fertilizer & lime,$0.00,$0.00,$0.00,$0.00,$0.00
+Chemicals (herbicide / pesticide),$0.00,$0.00,$0.00,$0.00,$0.00
+Crop insurance premiums,$0.00,$0.00,$0.00,$0.00,$0.00
+Fuel & oil,$0.00,$0.00,$0.00,$0.00,$0.00
+Custom hire / machine work,$0.00,$0.00,$0.00,$0.00,$0.00
+Repairs & maintenance,$0.00,$0.00,$0.00,$15.00,$15.00
+Drying & storage,$0.00,$0.00,$0.00,$0.00,$0.00
+Hauling / trucking,$0.00,$0.00,$0.00,$0.00,$0.00
+Hired labor,$0.00,$0.00,$0.00,$0.00,$0.00
+Land rent / lease,$0.00,$0.00,$0.00,$0.00,$0.00
+Operating loan interest,$0.00,$0.00,$0.00,$0.00,$0.00
+Supplies & miscellaneous,$0.00,$0.00,$0.00,$0.00,$0.00
+TOTAL OPERATING EXPENSES,"$2,025.00",$0.00,$0.00,$15.00,"$2,040.00"
+,,,,,
+GROSS MARGIN  (Revenue − Operating),"($2,025.00)",$0.00,$0.00,($15.00),"($2,040.00)"
+,,,,,
+FIXED / OVERHEAD EXPENSES,,,,,
+Property / land taxes,$0.00,$0.00,$0.00,$0.00,$0.00
+Farm & liability insurance,$0.00,$0.00,$0.00,$0.00,$0.00
+Depreciation (equipment & buildings),$0.00,$0.00,$0.00,$0.00,$0.00
+Term loan interest,$0.00,$0.00,$0.00,$0.00,$0.00
+Other overhead,$0.00,$0.00,$0.00,$0.00,$0.00
+TOTAL FIXED EXPENSES,$0.00,$0.00,$0.00,$0.00,$0.00
+,,,,,
+NET PROFIT / (LOSS),"($2,025.00)",$0.00,$0.00,($15.00),"($2,040.00)"
+,,,,,
+PER-ACRE METRICS,,,,,
+Revenue per acre,$0.00,$0.00,$0.00,$0.00,$0.00
+Total cost per acre,$77.88,$0.00,$0.00,$0.00,$78.46
+Profit per acre,($77.88),$0.00,$0.00,$0.00,($78.46)
+Breakeven price per unit,$0.00,$0.00,$0.00,$0.00,

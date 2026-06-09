@@ -48,7 +48,7 @@ biz-prd-use1
 
 ~~data-prd-use1~~
 
-fantasy-prd-use1
+~~fantasy-prd-use1~~
 
 ml-prd-use2
 

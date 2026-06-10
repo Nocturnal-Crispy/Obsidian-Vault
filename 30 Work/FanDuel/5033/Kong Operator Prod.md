@@ -54,16 +54,6 @@ ml-prd-use2
 
 nv-prd-use1
 
-pdm-prd-use1
-
-pe-prd-use1
-
-plateng-prd-use1
-
-racing-prd-use2
-
-rnt-prd-use2
-
 sb-prd-caw1
 sb-prd-use1
 sb-prd-use2
@@ -103,3 +93,8 @@ sports-prd-wy1
 
 adrenaline-prd-use1
 mp-prd-use1
+pdm-prd-use1
+pe-prd-use1
+plateng-prd-use1
+racing-prd-use2
+rnt-prd-use2

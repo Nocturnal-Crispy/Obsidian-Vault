@@ -58,8 +58,6 @@ sb-prd-caw1
 sb-prd-use1
 sb-prd-use2
 
-security-prd-use1
-
 sports-prd-az1
 sports-prd-az2
 sports-prd-co1
@@ -98,3 +96,4 @@ pe-prd-use1
 plateng-prd-use1
 racing-prd-use2
 rnt-prd-use2
+security-prd-use1

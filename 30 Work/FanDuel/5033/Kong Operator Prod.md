@@ -88,8 +88,8 @@ sports-prd-wy1
 
 
 
+# Needs Control Plane
 
-adrenaline-prd-use1
 mp-prd-use1
 pdm-prd-use1
 pe-prd-use1
@@ -97,3 +97,6 @@ plateng-prd-use1
 racing-prd-use2
 rnt-prd-use2
 security-prd-use1
+
+# Cannot Find AWS Account
+adrenaline-prd-use1

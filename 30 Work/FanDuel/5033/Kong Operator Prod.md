@@ -60,6 +60,7 @@ nv-prd-use1
 
 # Needs Control Plane
 
+adrenaline-prd-use1  (data account)
 mp-prd-use1
 pdm-prd-use1
 pe-prd-use1
@@ -100,4 +101,3 @@ sports-prd-vt1
 sports-prd-wv1
 sports-prd-wy1
 # Cannot Find AWS Account
-adrenaline-prd-use1  (data account)

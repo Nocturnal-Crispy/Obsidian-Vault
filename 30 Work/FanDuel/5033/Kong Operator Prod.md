@@ -54,6 +54,20 @@ ml-prd-use2
 
 nv-prd-use1
 
+
+
+
+
+# Needs Control Plane
+
+mp-prd-use1
+pdm-prd-use1
+pe-prd-use1
+plateng-prd-use1
+racing-prd-use2
+rnt-prd-use2
+security-prd-use1
+
 sb-prd-caw1
 sb-prd-use1
 sb-prd-use2
@@ -85,18 +99,5 @@ sports-prd-va1
 sports-prd-vt1
 sports-prd-wv1
 sports-prd-wy1
-
-
-
-# Needs Control Plane
-
-mp-prd-use1
-pdm-prd-use1
-pe-prd-use1
-plateng-prd-use1
-racing-prd-use2
-rnt-prd-use2
-security-prd-use1
-
 # Cannot Find AWS Account
 adrenaline-prd-use1  (data account)

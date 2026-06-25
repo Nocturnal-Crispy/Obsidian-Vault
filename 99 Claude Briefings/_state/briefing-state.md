@@ -1,43 +1,46 @@
 ---
 type: state
-updated: 2026-06-24 15:10
+updated: 2026-06-25 10:14
 ---
 
 # Daily Intelligence — Run State
 
 ## Last runs (per mode)
-- daily: 2026-06-24 (Wednesday, W26) — completed (Daily Note written this run; domain briefings already present)
+- daily: 2026-06-25 (Thursday, W26) — completed (full run: weather, triage, 8 domain notes + Daily Note, 8 generated tasks)
 - weekly: 2026-W25 (last Sunday rollup; next due Sun 2026-06-28)
 - monthly: 2026-05 (next due ~2026-06-30)
 - quarterly: 2026-Q1 (next due 2026-06-30)
 - yearly: 2025 (next due 2026-12-31)
 
 ## Quote rotation
-- last_category: Technology (2026-06-24, Wednesday)
-- next_default: Creative Thinking (Thursday 2026-06-25)
+- last_category: Creative Thinking (2026-06-25, Thursday)
+- next_default: Momentum (Friday 2026-06-26)
 
 ## Tracked story momentum (title → first-seen → last heat → status)
-- ROAD to Housing Act → ~2026-06-20 → Critical → RESOLVING (signed/signing 2026-06-24, passage → enacted law)
-- Anthropic export-control disruption (Fable 5/Mythos 5 offline) → ~2026-06-13 → High → ESCALATED (offline 10+ days; exposure framed in billions)
-- Nvidia neocloud capital loop ($2B Nebius stake) → 2026-06-24 → High → NEW
-- OpenAI DeployCo ($4B enterprise AI consulting arm) → 2026-06-24 → Medium → NEW
-- Supreme Court final-week decision crunch (22 cases) → ~2026-06-23 → High → RISING
-- US cattle herd contraction 86.2M head (7th yr) → 2026-06-24 → High → SUSTAINED
-- Lower corn/soybean-meal prices improving feeding margins → 2026-06-24 → Medium → NEW
-- HPAI / H5N1 background risk into fall → ongoing → Medium → CONTINUING
-- Steam Machine reveal → preorder/launch → ~2026-06-22 → High → SUSTAINED (preorders open 06-25, launch 06-30)
-- Star Fox (Switch 2) launch → ~2026-06-22 → High → RISING (launches 06-25)
-- 2026 primaries (NY/MD/UT/SC) → ~2026-06-23 → Medium → DECLINING (tallies settling)
+- Microsoft June Patch Tuesday wormable RCEs (CVE-2026-45657 kernel 9.8, CVE-2026-47291 HTTP.sys 9.8) → 2026-06-25 → Critical → NEW
+- Splunk CVE-2026-20253 actively exploited (CISA 3-day patch) → 2026-06-25 → Critical → NEW
+- pgAdmin 4 stored-XSS CVE-2026-12048 (PostgreSQL stack) → 2026-06-25 → Medium → NEW
+- OpenAI confidential IPO prep (~$730B, possible Sept) → 2026-06-25 → High → NEW
+- Anthropic Pentagon/export-control exposure ("in billions"); Mythos preview / Project Glasswing → ~2026-06-13 → High → SUSTAINED
+- Custom AI silicon scaling (Amazon >$20B run-rate; Nvidia Vera ramp) → 2026-06-24 → Medium → SUSTAINED
+- Fed June hold 3.50–3.75% turns hawkish (PCE→3.6%, hike on table; Warsh chair) → 2026-06-25 → High → NEW
+- Fuel near 3-yr highs (WTI ~$76 off $113 April peak) → 2026-06-25 → Medium → SUSTAINED
+- US cattle herd contraction → firm feeder (~$376/cwt) & slaughter (~$250) prices → ongoing → High → SUSTAINED
+- Soft corn/soybean prices improving feeding margins → 2026-06-24 → Medium → SUSTAINED
+- HPAI / H5N1 background risk into fall → ongoing → Low/Medium → CONTINUING
+- OBBBA 1099 threshold reset $600→$2,000 (2026) → ongoing → Medium → SUSTAINED
+- Steam Machine waitlist/preorder (closes 06-25 12pm ET; launch 06-30) → ~2026-06-22 → High → RISING
+- Star Fox (Switch 2) launch → ~2026-06-22 → Medium → RESOLVED (launched 06-25)
+- Hermitage utility online-payment ZIP requirement (06-15) → 2026-06-25 → Low → NEW
+- 2026 primaries (NY/MD/UT/SC) → ~2026-06-23 → Medium → DROPPED (tallies settled)
 
 ## Tracked grant deadlines (program → deadline → status)
-- NSF SBIR/STTR Phase I → 2026-07-27 → OPEN (invited Project Pitch prerequisite due this week) ⚠
-- USDA SBIR Phase I (NIFA) FY2026, listing 10.212 → TBD → UNCONFIRMED (NOFO not yet posted; Grants.gov alert recommended)
+- NSF SBIR/STTR Phase I → 2026-07-27 → OPEN (Project Pitch gate open since 06-02; submit pitch this week) ⚠
+- USDA SBIR Phase I (NIFA, listing 10.212) FY2026 → TBD → UNCONFIRMED (NOFO not yet posted; Grants.gov alert recommended)
 - USDA REAP → PAUSED since 2026-03-31
 - USDA VAPG / NE SARE Farmer Grant → CLOSED for cycle (watch FY2027)
 
 ## Notes
-- Vault folders present: Tech, Gaming, Politics(=Policy), Agriculture, Gardening, Grants, _state.
-- Migration pending: "Daily Summary Politics" → "Daily Summary Policy" (still writing to Politics for continuity).
-- Optional domains Economy and Local not yet broken out into own folders.
-- 2026-06-24: domain briefings (Tech/Gaming/Politics/Agriculture/Gardening/Grants) already existed from earlier run; this run added the missing 02 Daily Notes/2026-06-24.md (weather, quote, triage, 8 generated tasks, intelligence delta, grants, radar) and refreshed state. Tasks Inbox 06-24 block already present (not duplicated). Idempotent.
-- Email triage 06-24: no calendar reminders, no action-required mail; QuickBooks payment notice ($12,456 from Zeptta LLC) and Google security alerts flagged FYI.
+- Vault folders: Tech, Gaming, Politics(=Policy), Agriculture, Gardening, Grants, _state. Created this run: "Daily Summary Economy" and "Daily Summary Local" (now broken out into own folders).
+- Migration pending: "Daily Summary Politics" → "Daily Summary Policy" (still writing to Politics for continuity; Policy note carries a folder-note flag).
+- 2026-06-25: full daily run. Weather = rainy/thunderstorms, high 79/low 58, no alerts, no frost. Email triage = no calendar reminders, no action-required mail; FYI: QuickBooks $12,456 from Zeptta LLC, Google/LinkedIn security alerts, Proton import done. 8 generated tasks written to Daily Note + Tasks Inbox (06-25 block appended once, idempotent). NWS Tier 1.

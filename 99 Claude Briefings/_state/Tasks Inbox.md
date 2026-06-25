@@ -14,3 +14,13 @@ updated: 2026-06-24 11:05
 - [ ] **Do outdoor / garden / field work today** — dry window before Thursday's storms ➕ 2026-06-24 📅 2026-06-24 🔼 #garden (auto: clear dry weather window)
 - [ ] **Secure loose equipment and harvest ripe produce** before Thursday's thunderstorms (80%) ➕ 2026-06-24 ⏳ 2026-06-25 🔽 #farm (auto: severe-weather outlook)
 - [ ] Decide on **Steam Machine preorder** before it opens tomorrow ➕ 2026-06-24 📅 2026-06-25 🔽 #gaming (auto: gaming event ≤14 days)
+
+## 2026-06-25
+- [ ] Join the Steam Machine preorder waitlist before 12pm ET (random selection closes) ➕ 2026-06-25 📅 2026-06-25 🔺 #gaming (auto: gaming event)
+- [ ] Apply June Patch Tuesday Windows updates + update pgAdmin 4 (Splunk CVE-2026-20253 exploited; pgAdmin XSS CVE-2026-12048) ➕ 2026-06-25 📅 2026-06-26 ⏫ #dev (auto: security advisory)
+- [ ] Hold farm/garden field work to the morning — heavy thunderstorms 3–6pm ➕ 2026-06-25 📅 2026-06-25 🔼 #home (auto: severe-weather/precip window)
+- [ ] Scout tomatoes & potatoes for late blight after today's rain ➕ 2026-06-25 📅 2026-06-27 🔼 #garden (auto: pest/disease window)
+- [ ] Inspect & protect squash/zucchini stems — vine borer flight peak ➕ 2026-06-25 📅 2026-06-26 🔼 #garden (auto: pest window)
+- [ ] Submit NSF SBIR Project Pitch this week (gates 2026-07-27 Phase I) ➕ 2026-06-25 📅 2026-07-20 🔼 #grants (auto: grant deadline)
+- [ ] Set Grants.gov alert for USDA SBIR FY2026 NOFO (10.212) ➕ 2026-06-25 📅 2026-06-30 🔽 #grants (auto: grant watch)
+- [ ] Lock in next feed-grain order while corn is soft (~$4.47/bu) ➕ 2026-06-25 📅 2026-06-30 🔽 #farm (auto: ag-market move)

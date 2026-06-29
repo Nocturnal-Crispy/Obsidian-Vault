@@ -1,46 +1,54 @@
 ---
 type: state
-updated: 2026-06-25 10:14
+updated: 2026-06-29 08:52
 ---
 
 # Daily Intelligence — Run State
 
 ## Last runs (per mode)
-- daily: 2026-06-25 (Thursday, W26) — completed (full run: weather, triage, 8 domain notes + Daily Note, 8 generated tasks)
-- weekly: 2026-W25 (last Sunday rollup; next due Sun 2026-06-28)
-- monthly: 2026-05 (next due ~2026-06-30)
-- quarterly: 2026-Q1 (next due 2026-06-30)
+- daily: 2026-06-29 (Monday, W27) — completed (weather, triage, 8 domain notes + Daily Note + Grants, 7 generated tasks). Prior: 2026-06-26; 06-27/06-28 not run.
+- weekly: 2026-W25 — **OVERDUE: W26 weekly due Sun 2026-06-28 not yet run** ⚠
+- monthly: 2026-05 — **DUE ~2026-06-30 (June monthly)** ⚠
+- quarterly: 2026-Q1 — **DUE 2026-06-30 (Q2)** ⚠
 - yearly: 2025 (next due 2026-12-31)
 
 ## Quote rotation
-- last_category: Creative Thinking (2026-06-25, Thursday)
-- next_default: Momentum (Friday 2026-06-26)
+- last_category: Builder (2026-06-29, Monday)
+- next_default: Strategy (Tuesday 2026-06-30)
 
 ## Tracked story momentum (title → first-seen → last heat → status)
-- Microsoft June Patch Tuesday wormable RCEs (CVE-2026-45657 kernel 9.8, CVE-2026-47291 HTTP.sys 9.8) → 2026-06-25 → Critical → NEW
-- Splunk CVE-2026-20253 actively exploited (CISA 3-day patch) → 2026-06-25 → Critical → NEW
-- pgAdmin 4 stored-XSS CVE-2026-12048 (PostgreSQL stack) → 2026-06-25 → Medium → NEW
-- OpenAI confidential IPO prep (~$730B, possible Sept) → 2026-06-25 → High → NEW
-- Anthropic Pentagon/export-control exposure ("in billions"); Mythos preview / Project Glasswing → ~2026-06-13 → High → SUSTAINED
-- Custom AI silicon scaling (Amazon >$20B run-rate; Nvidia Vera ramp) → 2026-06-24 → Medium → SUSTAINED
-- Fed June hold 3.50–3.75% turns hawkish (PCE→3.6%, hike on table; Warsh chair) → 2026-06-25 → High → NEW
-- Fuel near 3-yr highs (WTI ~$76 off $113 April peak) → 2026-06-25 → Medium → SUSTAINED
-- US cattle herd contraction → firm feeder (~$376/cwt) & slaughter (~$250) prices → ongoing → High → SUSTAINED
-- Soft corn/soybean prices improving feeding margins → 2026-06-24 → Medium → SUSTAINED
-- HPAI / H5N1 background risk into fall → ongoing → Low/Medium → CONTINUING
-- OBBBA 1099 threshold reset $600→$2,000 (2026) → ongoing → Medium → SUSTAINED
-- Steam Machine waitlist/preorder (closes 06-25 12pm ET; launch 06-30) → ~2026-06-22 → High → RISING
-- Star Fox (Switch 2) launch → ~2026-06-22 → Medium → RESOLVED (launched 06-25)
-- Hermitage utility online-payment ZIP requirement (06-15) → 2026-06-25 → Low → NEW
-- 2026 primaries (NY/MD/UT/SC) → ~2026-06-23 → Medium → DROPPED (tallies settled)
+- Cisco SD-WAN Manager CVE-2026-20262 path-traversal exploited (CISA deadline 06-29) → 2026-06-29 → Critical → NEW
+- SolarWinds Serv-U DoS added to CISA KEV → 2026-06-29 → High → NEW
+- Cisco Catalyst SD-WAN CVE-2026-20245 exploited → 2026-06-26 → High → DECLINING (superseded by 20262)
+- Ubiquiti UniFi OS exploited (CVE-2026-34908/34910; BOD deadline 06-26) → 2026-06-26 → Critical → RESOLVED (deadline passed)
+- Splunk CVE-2026-20253 (CISA patch 06-28) → 2026-06-25 → High → RESOLVED (deadline passed)
+- Microsoft June Patch Tuesday wormable RCEs → 2026-06-25 → Critical → DECLINING
+- OpenAI "Jalapeño" Broadcom inference chip (~50% cheaper) + GPT-5.6 "Sol" preview → 2026-06-29 → High → NEW/RISING
+- Custom AI silicon battle layer (Broadcom kingmaker; Amazon >$20B run-rate) → 2026-06-24 → Medium → SUSTAINED
+- OpenAI IPO prep (confidential S-1 06-08; ~$852B Mar valuation) → 2026-06-25 → High → SUSTAINED
+- Anthropic Opus 4.8 live; IPO/public roundup → ~2026-06-13 → High → SUSTAINED
+- USDA Acreage + Grain Stocks reports (release Tue 06-30) → 2026-06-29 → High → NEW/RISING
+- Soft corn (~$4.13)/soybeans (~$11.26) improving feed margins → 2026-06-24 → Medium → SUSTAINED
+- US cattle herd contraction → firm prices → ongoing → High → SUSTAINED; lean hogs soft (~$92.52) → SUSTAINED
+- HPAI / H5N1 background risk into fall → ongoing → Low → CONTINUING
+- Fed hawkish hold 3.50–3.75% (PCE→3.6%; 9 see ≥1 hike; Warsh chair) → 2026-06-25 → High → SUSTAINED
+- Fuel ~$76 WTI (off $113 Apr; US–Iran provisional peace) → 2026-06-25 → Medium → DECLINING
+- OBBBA 1099 threshold $600→$2,000 (2026); 1099-K back to $20k/200 → ongoing → Medium → SUSTAINED
+- AI hiring-tool bias audits (NYC active) emerging SMB compliance → 2026-06-29 → Low → NEW
+- Halo: Campaign Evolved (07-28; EA 07-23; countdown opens 07-14) → 2026-06-26 → Medium → SUSTAINED
+- Palworld 1.0 full launch (July) → 2026-06-29 → Medium → NEW
+- Hermitage data-center zoning ordinance vote pending → 2026-06-29 → Medium → NEW
+- Mercer Co judicial transition (Wallace→Nesbit, Aug) → 2026-06-29 → Low → NEW
+- Hermitage clean 2025 audit; $1.8M county software rift → 2026-06-29 → Low → NEW
+- Steam Machine (launch ~06-30) / Star Fox Switch 2 (06-25) → RESOLVED
 
 ## Tracked grant deadlines (program → deadline → status)
-- NSF SBIR/STTR Phase I → 2026-07-27 → OPEN (Project Pitch gate open since 06-02; submit pitch this week) ⚠
-- USDA SBIR Phase I (NIFA, listing 10.212) FY2026 → TBD → UNCONFIRMED (NOFO not yet posted; Grants.gov alert recommended)
+- USDA SBIR Phase I (NIFA 10.212) FY2026 → TBD → UNCONFIRMED (NOFO not posted; SBIR reauthorized to 2031 via S.3971 04-13; set Grants.gov alert)
+- NSF SBIR/STTR Phase I (NSF 26-510) → rolling/pitch-gated → UNCONFIRMED (verify)
 - USDA REAP → PAUSED since 2026-03-31
-- USDA VAPG / NE SARE Farmer Grant → CLOSED for cycle (watch FY2027)
+- USDA VAPG / NE SARE Farmer Grant → CLOSED (watch FY2027)
 
 ## Notes
-- Vault folders: Tech, Gaming, Politics(=Policy), Agriculture, Gardening, Grants, _state. Created this run: "Daily Summary Economy" and "Daily Summary Local" (now broken out into own folders).
-- Migration pending: "Daily Summary Politics" → "Daily Summary Policy" (still writing to Politics for continuity; Policy note carries a folder-note flag).
-- 2026-06-25: full daily run. Weather = rainy/thunderstorms, high 79/low 58, no alerts, no frost. Email triage = no calendar reminders, no action-required mail; FYI: QuickBooks $12,456 from Zeptta LLC, Google/LinkedIn security alerts, Proton import done. 8 generated tasks written to Daily Note + Tasks Inbox (06-25 block appended once, idempotent). NWS Tier 1.
+- 2026-06-29: full daily run. Weather = fog AM (SWS, clears 9am) then sunny; high 89/low 70; heat ramp Tue 94 (HI 102)/Wed 98; no frost. Email triage = 0 calendar, 0 action-required; FYI only. 7 generated tasks → Daily Note + Tasks Inbox (idempotent).
+- Policy notes now written to "Daily Summary Policy" (created). Old "Daily Summary Politics" folder still present — physical merge/rename still pending.
+- PERIODICS OUTSTANDING: Weekly W26 (due 06-28), June Monthly + Q2 Quarterly (due 06-30). Flag/run next session.

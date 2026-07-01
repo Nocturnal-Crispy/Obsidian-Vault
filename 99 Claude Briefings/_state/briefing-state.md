@@ -1,54 +1,52 @@
 ---
 type: state
-updated: 2026-06-29 08:52
+updated: 2026-07-01 08:45
 ---
 
 # Daily Intelligence — Run State
 
 ## Last runs (per mode)
-- daily: 2026-06-29 (Monday, W27) — completed (weather, triage, 8 domain notes + Daily Note + Grants, 7 generated tasks). Prior: 2026-06-26; 06-27/06-28 not run.
-- weekly: 2026-W25 — **OVERDUE: W26 weekly due Sun 2026-06-28 not yet run** ⚠
-- monthly: 2026-05 — **DUE ~2026-06-30 (June monthly)** ⚠
-- quarterly: 2026-Q1 — **DUE 2026-06-30 (Q2)** ⚠
+- daily: 2026-07-01 (Wednesday, W27) — completed (weather, triage, 8 domain notes + Daily Note + Grants, 7 generated tasks). Prior: 2026-06-30.
+- weekly: 2026-W25 — **STILL OVERDUE: W26 weekly (due Sun 2026-06-28) not run** ⚠
+- monthly: 2026-05 — **STILL OVERDUE: June monthly (~2026-06-30) not run** ⚠ (June now closed — run as June monthly next)
+- quarterly: 2026-Q2 — DONE 2026-06-30 ✅. Next due 2026-09-30 (Q3).
 - yearly: 2025 (next due 2026-12-31)
 
 ## Quote rotation
-- last_category: Builder (2026-06-29, Monday)
-- next_default: Strategy (Tuesday 2026-06-30)
+- last_category: Technology (2026-07-01, Wednesday)
+- next_default: Creative Thinking (Thursday 2026-07-02)
 
 ## Tracked story momentum (title → first-seen → last heat → status)
-- Cisco SD-WAN Manager CVE-2026-20262 path-traversal exploited (CISA deadline 06-29) → 2026-06-29 → Critical → NEW
-- SolarWinds Serv-U DoS added to CISA KEV → 2026-06-29 → High → NEW
-- Cisco Catalyst SD-WAN CVE-2026-20245 exploited → 2026-06-26 → High → DECLINING (superseded by 20262)
-- Ubiquiti UniFi OS exploited (CVE-2026-34908/34910; BOD deadline 06-26) → 2026-06-26 → Critical → RESOLVED (deadline passed)
-- Splunk CVE-2026-20253 (CISA patch 06-28) → 2026-06-25 → High → RESOLVED (deadline passed)
-- Microsoft June Patch Tuesday wormable RCEs → 2026-06-25 → Critical → DECLINING
-- OpenAI "Jalapeño" Broadcom inference chip (~50% cheaper) + GPT-5.6 "Sol" preview → 2026-06-29 → High → NEW/RISING
-- Custom AI silicon battle layer (Broadcom kingmaker; Amazon >$20B run-rate) → 2026-06-24 → Medium → SUSTAINED
-- OpenAI IPO prep (confidential S-1 06-08; ~$852B Mar valuation) → 2026-06-25 → High → SUSTAINED
-- Anthropic Opus 4.8 live; IPO/public roundup → ~2026-06-13 → High → SUSTAINED
-- USDA Acreage + Grain Stocks reports (release Tue 06-30) → 2026-06-29 → High → NEW/RISING
-- Soft corn (~$4.13)/soybeans (~$11.26) improving feed margins → 2026-06-24 → Medium → SUSTAINED
-- US cattle herd contraction → firm prices → ongoing → High → SUSTAINED; lean hogs soft (~$92.52) → SUSTAINED
-- HPAI / H5N1 background risk into fall → ongoing → Low → CONTINUING
-- Fed hawkish hold 3.50–3.75% (PCE→3.6%; 9 see ≥1 hike; Warsh chair) → 2026-06-25 → High → SUSTAINED
-- Fuel ~$76 WTI (off $113 Apr; US–Iran provisional peace) → 2026-06-25 → Medium → DECLINING
-- OBBBA 1099 threshold $600→$2,000 (2026); 1099-K back to $20k/200 → ongoing → Medium → SUSTAINED
-- AI hiring-tool bias audits (NYC active) emerging SMB compliance → 2026-06-29 → Low → NEW
-- Halo: Campaign Evolved (07-28; EA 07-23; countdown opens 07-14) → 2026-06-26 → Medium → SUSTAINED
-- Palworld 1.0 full launch (July) → 2026-06-29 → Medium → NEW
-- Hermitage data-center zoning ordinance vote pending → 2026-06-29 → Medium → NEW
-- Mercer Co judicial transition (Wallace→Nesbit, Aug) → 2026-06-29 → Low → NEW
-- Hermitage clean 2025 audit; $1.8M county software rift → 2026-06-29 → Low → NEW
-- Steam Machine (launch ~06-30) / Star Fox Switch 2 (06-25) → RESOLVED
+- USDA June Acreage + Grain Stocks (corn 95.3M/-3%, stocks 5.29B/+14%; soy 85.4M/+5%, stocks 1.06B/+5%) → released 2026-06-30 → High → RESOLVED/bearish corn
+- Corn soft (~$4.25–4.46)/ample stocks → cheaper feed → 2026-06-24 → Medium → SUSTAINED
+- Cattle firm (grilling demand + herd contraction); lean hogs mixed → ongoing → High/Med → SUSTAINED
+- NWS Extreme Heat WARNING Hermitage through Jul 3 (HI ~105) → upgraded 2026-07-01 → High → ESCALATED (no frost)
+- OpenAI GPT-5.6 "Sol" preview (06-28) + Broadcom inference chip → 2026-06-25 → High → RISING
+- Anthropic Opus-class upgrade + Sonnet 5 live in Devin/Cognition → 2026-06-17 → Medium/High → SUSTAINED
+- Cognition Devin Fusion + updated ToS → 2026-06-30 → Medium → SUSTAINED
+- Anthropic confidential IPO filing; OpenAI IPO prep → ~2026-06-01/06-25 → High → SUSTAINED
+- CISA KEV: Cisco CUCM SSRF (CVE-2026-20230), PTC Windchill (CVE-2026-12569), Ubiquiti UniFi (34908/09/10) → 2026-06-23/25 → High → SUSTAINED
+- Colorado AI Act (SB 24-205) effective 2026-06-30 (first comprehensive state AI law) → 2026-07-01 → Medium → NEW/RISING
+- IRS OPR AI guidance for tax practice (06-24) → 2026-07-01 → Low → NEW
+- OBBBA 1099 threshold $600→$2,000 (2026); 1099-K back to $20k/200 → ongoing → Low → SUSTAINED
+- Fed hawkish hold 3.50–3.75% (split committee, 9/18 see higher) → 2026-06-25 → High → SUSTAINED
+- Fuel/energy: MIXED signals (prior state WTI ~$76 declining vs spring Hormuz spike) → UNCONFIRMED, verify → DECLINING?
+- Palworld 1.0 full launch Jul 10 (Game Pass) → 2026-06-29 → Medium → RISING (~9 days)
+- Halo: Campaign Evolved Jul 28 (first on PS5) → 2026-06-26 → Medium → SUSTAINED (~27 days)
+- Legal: Crispen v. Battle Road Digital, Inc. — discovery responses/verification (HKM) → 2026-07-01 → Medium → NEW (action-required; personal/legal)
+- Spotted lanternfly nymphs active July; PA quarantine 56/67 counties → 2026-07-01 → Medium → NEW/seasonal
+- Tomato hornworm season Jul–Sept → 2026-07-01 → Low → NEW/seasonal
+- Hermitage Arts Festival Jul 25–26 → 2026-07-01 → Low → NEW
+- Mercer Co 2026 reassessment; Hermitage data-center zoning vote; judicial transition (Aug) → ongoing → Low/Med → CONTINUING (verify)
+- HPAI/H5N1 background risk into fall → ongoing → Low → CONTINUING
 
 ## Tracked grant deadlines (program → deadline → status)
-- USDA SBIR Phase I (NIFA 10.212) FY2026 → TBD → UNCONFIRMED (NOFO not posted; SBIR reauthorized to 2031 via S.3971 04-13; set Grants.gov alert)
-- NSF SBIR/STTR Phase I (NSF 26-510) → rolling/pitch-gated → UNCONFIRMED (verify)
+- USDA SBIR/STTR Phase I (NIFA) FY2026 → TBD → UNCONFIRMED (NOFO not posted; Grants.gov alert task active from 06-30 — not duplicated)
+- NSF SBIR/STTR Phase I (NSF 26-510) → rolling/pitch-gated → UNCONFIRMED (verify seedfund.nsf.gov)
 - USDA REAP → PAUSED since 2026-03-31
-- USDA VAPG / NE SARE Farmer Grant → CLOSED (watch FY2027)
+- USDA VAPG / NE SARE Farmer → CLOSED (watch FY2027)
 
 ## Notes
-- 2026-06-29: full daily run. Weather = fog AM (SWS, clears 9am) then sunny; high 89/low 70; heat ramp Tue 94 (HI 102)/Wed 98; no frost. Email triage = 0 calendar, 0 action-required; FYI only. 7 generated tasks → Daily Note + Tasks Inbox (idempotent).
-- Policy notes now written to "Daily Summary Policy" (created). Old "Daily Summary Politics" folder still present — physical merge/rename still pending.
-- PERIODICS OUTSTANDING: Weekly W26 (due 06-28), June Monthly + Q2 Quarterly (due 06-30). Flag/run next session.
+- 2026-07-01: full daily run. Weather = Extreme Heat WARNING through Jul 3 (upgraded from Advisory), high 97/HI 105 today, Thu 98. USDA June report published (bearish corn). Email triage = 1 action-required (legal: Crispen v. Battle Road discovery verification), rest FYI. 7 generated tasks → Daily Note + Tasks Inbox (07-01 guarded).
+- OUTSTANDING PERIODICS: Weekly W26 (due 06-28) and **June Monthly** (now due, June closed) — run next session before next daily if possible.
+- Old "Daily Summary Politics" folder still present alongside "Daily Summary Policy" — physical merge/rename still pending.

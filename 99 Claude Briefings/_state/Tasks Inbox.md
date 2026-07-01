@@ -43,3 +43,22 @@ updated: 2026-06-24 11:05
 - [ ] Verify Cisco SD-WAN Manager CVE-2026-20262 patch if in client stack ➕ 2026-06-29 📅 2026-06-29 🔺 #dev (auto: security advisory)
 - [ ] Register Grants.gov alert USDA SBIR FY2026 (CFDA 10.212) ➕ 2026-06-29 📅 2026-07-03 🔽 #grants (auto: grant tracking)
 - [ ] Run pending Weekly/Monthly/Q2 rollups ➕ 2026-06-29 📅 2026-06-30 🔼 #home (auto: periodic triggers)
+
+## 2026-06-30
+- [ ] Water garden deeply at dawn/dusk; shade new transplants; check livestock shade + water ➕ 2026-06-30 📅 2026-06-30 ⏫ #farm #garden (auto: NWS Heat Advisory)
+- [ ] Heavy outdoor/farm work before 11am or after 7pm through Jul 3 ➕ 2026-06-30 📅 2026-06-30 🔼 #farm (auto: Heat Advisory)
+- [ ] Review USDA Acreage + Grain Stocks reports (noon ET today) ➕ 2026-06-30 📅 2026-06-30 🔼 #farm (auto: USDA NASS release)
+- [ ] Confirm no client stacks run unpatched SolarWinds Serv-U / Cisco SD-WAN Manager ➕ 2026-06-30 📅 2026-07-01 🔼 #dev (auto: CISA KEV)
+- [ ] Mulch tomatoes, remove lower leaves, water at base — blight/Septoria risk ➕ 2026-06-30 📅 2026-07-02 🔽 #garden (auto: Penn State advisory)
+- [ ] Evaluate Devin Fusion for consulting workflow ➕ 2026-06-30 📅 2026-07-03 🔽 #dev (auto: dev-tooling launch)
+- [ ] Wishlist / plan Palworld 1.0 (July 10 launch) ➕ 2026-06-30 📅 2026-07-09 🔽 #gaming (auto: launch ≤14 days)
+- [ ] Set Grants.gov alert for USDA SBIR Phase I FY2026 NOFO ➕ 2026-06-30 📅 2026-07-07 🔽 #grants (auto: grant cycle unconfirmed)
+
+## 2026-07-01 (auto-generated)
+- [ ] Heat protocol: livestock shade + full water (2x today); deep-water garden dawn & dusk ➕ 2026-07-01 📅 2026-07-01 ⏫ #farm (auto: Extreme Heat Warning)
+- [ ] Confirm discovery-response verification returned to HKM — Crispen v. Battle Road Digital ➕ 2026-07-01 📅 2026-07-01 ⏫ #home (auto: action-required email)
+- [ ] Book/lock feed & inputs while corn soft ➕ 2026-07-01 📅 2026-07-08 🔼 #farm (auto: USDA report)
+- [ ] Wishlist/plan Palworld 1.0 (Game Pass) ➕ 2026-07-01 📅 2026-07-09 🔽 #gaming (auto: launch Jul 10)
+- [ ] Scout for spotted lanternfly nymphs ➕ 2026-07-01 📅 2026-07-05 🔽 #garden (auto: SLF season)
+- [ ] Dawn/dusk tomato-hornworm checks ➕ 2026-07-01 📅 2026-07-06 🔽 #garden (auto: hornworm season)
+- [ ] Skim IRS AI tax guidance + Colorado AI Act for client AI-compliance notes ➕ 2026-07-01 📅 2026-07-10 🔽 #dev (auto: IRS OPR + CO SB 24-205)

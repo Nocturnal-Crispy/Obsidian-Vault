@@ -62,3 +62,12 @@ updated: 2026-06-24 11:05
 - [ ] Scout for spotted lanternfly nymphs ➕ 2026-07-01 📅 2026-07-05 🔽 #garden (auto: SLF season)
 - [ ] Dawn/dusk tomato-hornworm checks ➕ 2026-07-01 📅 2026-07-06 🔽 #garden (auto: hornworm season)
 - [ ] Skim IRS AI tax guidance + Colorado AI Act for client AI-compliance notes ➕ 2026-07-01 📅 2026-07-10 🔽 #dev (auto: IRS OPR + CO SB 24-205)
+
+## 2026-07-02
+- [ ] Beat the heat: water garden deeply at dawn, mulch, shade transplants; hydrate livestock ➕ 2026-07-02 📅 2026-07-02 ⏫ #farm (auto: NWS Extreme Heat Warning)
+- [ ] Scout tomatoes for hornworms + blight; remove affected leaves ➕ 2026-07-02 📅 2026-07-04 🔼 #garden (auto: PA tomato pest season)
+- [ ] Check for spotted lanternfly nymphs/egg masses before leaving quarantine zone ➕ 2026-07-02 📅 2026-07-05 🔽 #garden (auto: SLF nymph season)
+- [ ] Review Defendant's discovery responses — Crispen v. Battle Road (HKM) ➕ 2026-07-02 📅 2026-07-06 ⏫ #dev (auto: HKM email 07-01)
+- [ ] Check client stacks for on-prem SharePoint / LiteLLM; patch ➕ 2026-07-02 📅 2026-07-04 ⏫ #dev (auto: CISA KEV CVE-2026-45659 / CVE-2026-42271)
+- [ ] Plan July 4 around AM window — PM storms likely; secure/harvest beforehand ➕ 2026-07-02 📅 2026-07-04 🔼 #home (auto: NWS Jul 4 storms)
+- [ ] If buying feed, consider locking in — corn soft/bearish ➕ 2026-07-02 📅 2026-07-10 🔽 #farm (auto: USDA report)

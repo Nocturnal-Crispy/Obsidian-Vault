@@ -71,3 +71,18 @@ updated: 2026-06-24 11:05
 - [ ] Check client stacks for on-prem SharePoint / LiteLLM; patch ➕ 2026-07-02 📅 2026-07-04 ⏫ #dev (auto: CISA KEV CVE-2026-45659 / CVE-2026-42271)
 - [ ] Plan July 4 around AM window — PM storms likely; secure/harvest beforehand ➕ 2026-07-02 📅 2026-07-04 🔼 #home (auto: NWS Jul 4 storms)
 - [ ] If buying feed, consider locking in — corn soft/bearish ➕ 2026-07-02 📅 2026-07-10 🔽 #farm (auto: USDA report)
+
+## 2026-07-14
+- [ ] Deep-water garden early AM + mulch; check tomatoes/peppers for blossom-end rot ➕ 2026-07-14 📅 2026-07-14 ⏫ #garden (auto: heat 93°F/heat index ~100°F Wed)
+- [ ] Scout & destroy spotted lanternfly adults; report 1-888-4BADFLY ➕ 2026-07-14 📅 2026-07-16 🔼 #garden (auto: SLF July peak)
+- [ ] Follow up on Crispen v. Battle Road settlement conference scheduling ➕ 2026-07-14 📅 2026-07-16 ⏫ #home (auto: triage settlement email)
+- [ ] Audit projects for Langflow/Joomla page-builder CVEs; patch ➕ 2026-07-14 📅 2026-07-18 🔼 #dev (auto: CISA KEV)
+- [ ] Wishlist/pre-load Halo: Campaign Evolved before Jul 28 ➕ 2026-07-14 📅 2026-07-27 🔽 #gaming (auto: event ≤14 days)
+- [ ] Confirm Grants.gov alert for USDA SBIR/STTR FY26 NOFO ➕ 2026-07-14 📅 2026-07-17 🔽 #grants (auto: NOFO watch)
+
+## 2026-07-15
+- [ ] Water garden + top off livestock troughs at dawn and dusk; avoid midday exertion ➕ 2026-07-15 📅 2026-07-15 ⏫ #home (auto: NWS Heat Advisory)
+- [ ] Ensure livestock have shade and full water through the 8 PM heat advisory ➕ 2026-07-15 📅 2026-07-15 ⏫ #farm (auto: NWS Heat Advisory)
+- [ ] Limit strenuous outdoor work Thursday — wildfire smoke / air quality ➕ 2026-07-15 📅 2026-07-16 🔼 #home (auto: NWS smoke forecast)
+- [ ] Review backyard-flock biosecurity — HPAI back in commercial poultry (UT 1.2M hens) ➕ 2026-07-15 📅 2026-07-18 🔼 #farm (auto: APHIS HPAI detection)
+- [ ] Scout tomatoes for hornworm & late-blight lesions (July peak) ➕ 2026-07-15 📅 2026-07-19 🔽 #garden (auto: PA pest season)

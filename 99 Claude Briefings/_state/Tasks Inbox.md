@@ -114,3 +114,7 @@ updated: 2026-06-24 11:05
 - [ ] Start fall brassicas indoors this week ➕ 2026-07-22 📅 2026-07-26 🔽 #garden (auto: seasonal window)
 - [ ] Set Grants.gov alert for USDA SBIR FY26 Phase I ➕ 2026-07-22 📅 2026-07-25 🔽 #grants (auto: grant tracking)
 - [ ] Watch PA DEP Small Business Advantage Grant FY27 reopen (~Aug 1) ➕ 2026-07-22 📅 2026-08-01 🔽 #grants (auto: grant deadline)
+- [ ] Battle Road: review Draft V.10 (attached), send Fagan the exact RSU vesting-date proof or accept "shortly after," then give final go-ahead to send ➕ 2026-07-24 📅 2026-07-24 🔺 #home (auto: Fagan email — draft finalized)
+- [ ] Finish outdoor/garden work today while dry — rain & thunderstorms Sat 8am–2pm ➕ 2026-07-24 📅 2026-07-24 🔼 #garden (auto: dry window before Sat rain)
+- [ ] Note FOMC decision Wed 7/29 2pm ET — hold likely, ~24% hike odds ➕ 2026-07-24 ⏳ 2026-07-29 🔽 #home (auto: macro event)
+- [ ] JFS Wealth Advisors office closed 7/29–31 — reach them before/after if anything pending ➕ 2026-07-24 ⏳ 2026-07-28 🔽 #home (auto: calendar/FYI email)

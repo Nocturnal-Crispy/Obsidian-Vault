@@ -118,3 +118,10 @@ updated: 2026-06-24 11:05
 - [ ] Finish outdoor/garden work today while dry — rain & thunderstorms Sat 8am–2pm ➕ 2026-07-24 📅 2026-07-24 🔼 #garden (auto: dry window before Sat rain)
 - [ ] Note FOMC decision Wed 7/29 2pm ET — hold likely, ~24% hike odds ➕ 2026-07-24 ⏳ 2026-07-29 🔽 #home (auto: macro event)
 - [ ] JFS Wealth Advisors office closed 7/29–31 — reach them before/after if anything pending ➕ 2026-07-24 ⏳ 2026-07-28 🔽 #home (auto: calendar/FYI email)
+
+## 2026-07-25
+- [ ] Battle Road: send Fagan the exact RSU vesting-date proof or accept "shortly after," then give final go-ahead to send Draft V.10 ➕ 2026-07-25 📅 2026-07-25 🔺 #home (auto: Fagan email — at finish line)
+- [ ] Patch Windows Print Spooler CVE-2026-50522 (CISA KEV due today) + sweep SharePoint CVE-2026-55040 exposure ➕ 2026-07-25 📅 2026-07-25 ⏫ #dev (auto: CISA KEV deadline)
+- [ ] Garden scouting + hand-picking (hornworm/beetle/vine-borer) + strip lower tomato leaves in dry morning gap before showers ➕ 2026-07-25 📅 2026-07-25 🔼 #garden (auto: pest peak + narrow dry window)
+- [ ] PA DEP Small Business Advantage Grant — verify FY27 reopen (~Aug 1) and prep early application ➕ 2026-07-25 📅 2026-07-31 🔼 #grants (auto: grant reopen inside 14 days)
+- [ ] Halo: Campaign Evolved full launch 7/28 — grab via Game Pass day one ➕ 2026-07-25 ⏳ 2026-07-28 🔽 #gaming (auto: gaming event ≤14 days)

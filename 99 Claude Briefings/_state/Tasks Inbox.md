@@ -125,3 +125,12 @@ updated: 2026-06-24 11:05
 - [ ] Garden scouting + hand-picking (hornworm/beetle/vine-borer) + strip lower tomato leaves in dry morning gap before showers ➕ 2026-07-25 📅 2026-07-25 🔼 #garden (auto: pest peak + narrow dry window)
 - [ ] PA DEP Small Business Advantage Grant — verify FY27 reopen (~Aug 1) and prep early application ➕ 2026-07-25 📅 2026-07-31 🔼 #grants (auto: grant reopen inside 14 days)
 - [ ] Halo: Campaign Evolved full launch 7/28 — grab via Game Pass day one ➕ 2026-07-25 ⏳ 2026-07-28 🔽 #gaming (auto: gaming event ≤14 days)
+
+## 2026-07-28
+- [ ] Call Sarah Kellogg (724.979.6630) re: Beiter — she spoke with Cody Beiter ➕ 2026-07-28 📅 2026-07-29 ⏫ #home (auto: attorney email 07-27)
+- [ ] Fix & redeploy aplaceintimetattoo EC2 + SHA-pin audit ➕ 2026-07-28 📅 2026-07-29 ⏫ #dev (auto: tracked CI/CD failure, STALE 5d)
+- [ ] Give Fagan final go-ahead on Battle Road demand ($625k opening) ➕ 2026-07-28 📅 2026-07-30 🔼 #home (auto: tracked legal at finish line)
+- [ ] Patch/verify client WordPress + on-prem SharePoint — CISA KEV ➕ 2026-07-28 📅 2026-07-30 ⏫ #dev (auto: CISA KEV CVE-2026-58644)
+- [ ] Check grants.pa.gov ~Aug 1 for PA DEP Small Business Advantage FY27 ➕ 2026-07-28 📅 2026-08-01 🔼 #grants (auto: grant window ~4 days)
+- [ ] Scout tomatoes/potatoes for late blight; preventive fungicide in dry window ➕ 2026-07-28 📅 2026-07-30 🔼 #garden (auto: wet-week blight risk)
+- [ ] Grab Halo: Campaign Evolved on Game Pass ➕ 2026-07-28 📅 2026-07-31 🔽 #gaming (auto: gaming event launch)

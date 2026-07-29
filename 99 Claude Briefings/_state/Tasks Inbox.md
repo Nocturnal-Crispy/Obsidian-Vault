@@ -134,3 +134,12 @@ updated: 2026-06-24 11:05
 - [ ] Check grants.pa.gov ~Aug 1 for PA DEP Small Business Advantage FY27 ➕ 2026-07-28 📅 2026-08-01 🔼 #grants (auto: grant window ~4 days)
 - [ ] Scout tomatoes/potatoes for late blight; preventive fungicide in dry window ➕ 2026-07-28 📅 2026-07-30 🔼 #garden (auto: wet-week blight risk)
 - [ ] Grab Halo: Campaign Evolved on Game Pass ➕ 2026-07-28 📅 2026-07-31 🔽 #gaming (auto: gaming event launch)
+
+## 2026-07-29
+- [ ] Call Sarah Kellogg (724.979.6630) re: Beiter — she spoke with Cody Beiter ➕ 2026-07-29 📅 2026-07-29 🔺 #home (auto: action-required attorney email 07-27)
+- [ ] Fix & redeploy aplaceintimetattoo EC2 + SHA-pin audit (STALE 6d) ➕ 2026-07-29 📅 2026-07-29 🔺 #dev (auto: tracked CI/CD failure)
+- [ ] Give Fagan final go-ahead on Battle Road demand ($625k opening) ➕ 2026-07-29 📅 2026-07-30 ⏫ #home (auto: tracked legal at finish line)
+- [ ] Audit client stacks for Check Point (CVE-2026-16232) / SharePoint (CVE-2026-50522) / Zimbra ➕ 2026-07-29 📅 2026-07-31 ⏫ #dev (auto: CISA KEV 07-28)
+- [ ] Check grants.pa.gov for PA DEP Small Business Advantage FY27 opening ➕ 2026-07-29 📅 2026-08-01 🔼 #grants (auto: grant reopen ~3 days)
+- [ ] Deep-water garden + hand-pick SLF/hornworm + scout blight ➕ 2026-07-29 📅 2026-07-29 🔽 #garden (auto: dry window + pest peak)
+- [ ] Verify FOMC statement after 2 PM ET ➕ 2026-07-29 📅 2026-07-29 🔽 #home (auto: Fed decision today)

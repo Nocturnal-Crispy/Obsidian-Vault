@@ -143,3 +143,10 @@ updated: 2026-06-24 11:05
 - [ ] Check grants.pa.gov for PA DEP Small Business Advantage FY27 opening ➕ 2026-07-29 📅 2026-08-01 🔼 #grants (auto: grant reopen ~3 days)
 - [ ] Deep-water garden + hand-pick SLF/hornworm + scout blight ➕ 2026-07-29 📅 2026-07-29 🔽 #garden (auto: dry window + pest peak)
 - [ ] Verify FOMC statement after 2 PM ET ➕ 2026-07-29 📅 2026-07-29 🔽 #home (auto: Fed decision today)
+
+## 2026-08-02
+- [ ] Scout tomatoes for late/early blight once rain breaks; bag & discard spotted foliage ➕ 2026-08-02 📅 2026-08-02 ⏫ #garden (auto: Flood Watch + high blight pressure)
+- [ ] Direct-sow fall greens/roots in the Mon–Tue dry window ➕ 2026-08-02 ⏳ 2026-08-03 🔼 #garden (auto: fall sowing + dry window)
+- [ ] Confirm Game Pass Ultimate/PC sub or pre-order active before Gears E-Day beta ➕ 2026-08-02 📅 2026-08-05 🔼 #gaming (auto: Gears E-Day beta Aug 6)
+- [ ] Verify PA DEP SBAG FY27 open at dep.pa.gov; capture deadline ➕ 2026-08-02 📅 2026-08-03 🔼 #grants (auto: SBAG FY27 reopen window)
+- [ ] Audit AI coding-agent permissions (scope files, restrict outbound network, isolate EC2 path) ➕ 2026-08-02 📅 2026-08-05 🔼 #dev (auto: Anthropic agent-access disclosure)

@@ -150,3 +150,12 @@ updated: 2026-06-24 11:05
 - [ ] Confirm Game Pass Ultimate/PC sub or pre-order active before Gears E-Day beta ➕ 2026-08-02 📅 2026-08-05 🔼 #gaming (auto: Gears E-Day beta Aug 6)
 - [ ] Verify PA DEP SBAG FY27 open at dep.pa.gov; capture deadline ➕ 2026-08-02 📅 2026-08-03 🔼 #grants (auto: SBAG FY27 reopen window)
 - [ ] Audit AI coding-agent permissions (scope files, restrict outbound network, isolate EC2 path) ➕ 2026-08-02 📅 2026-08-05 🔼 #dev (auto: Anthropic agent-access disclosure)
+
+## 2026-08-03 (auto-generated)
+- [ ] Finalize Battle Road Digital mediation prep — review amended statement ➕ 2026-08-03 📅 2026-08-04 🔺 #legal (auto: tracked legal momentum — mediation this week)
+- [ ] Fix & redeploy aplaceintimetattoo EC2 GitHub Action + SHA-pin audit ➕ 2026-08-03 📅 2026-08-04 ⏫ #dev (auto: tracked dev — deploy STALE 11 days)
+- [ ] Patch/verify Fortinet FortiOS (CVE-2025-68686) on any client infra before KEV deadline ➕ 2026-08-03 📅 2026-08-09 ⏫ #dev (auto: CISA KEV due Aug 10)
+- [ ] Follow up Atty Sarah Kellogg re: Beiter boundary-marker restoration ➕ 2026-08-03 📅 2026-08-05 🔼 #legal (auto: tracked legal — follow-up pending)
+- [ ] Verify PA DEP SBAG FY27 status at grants.pa.gov ➕ 2026-08-03 📅 2026-08-05 🔼 #grants (auto: grant window unconfirmed)
+- [ ] Use dry window: fall-sow greens/roots/brassicas + scout tomatoes for late blight ➕ 2026-08-03 📅 2026-08-04 🔽 #garden (auto: dry window Mon–Tue + seasonal)
+- [ ] Confirm Game Pass status for Gears E-Day early-access beta (Aug 6) ➕ 2026-08-03 📅 2026-08-05 🔽 #gaming (auto: gaming event 3 days out)

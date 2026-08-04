@@ -159,3 +159,11 @@ updated: 2026-06-24 11:05
 - [ ] Verify PA DEP SBAG FY27 status at grants.pa.gov ➕ 2026-08-03 📅 2026-08-05 🔼 #grants (auto: grant window unconfirmed)
 - [ ] Use dry window: fall-sow greens/roots/brassicas + scout tomatoes for late blight ➕ 2026-08-03 📅 2026-08-04 🔽 #garden (auto: dry window Mon–Tue + seasonal)
 - [ ] Confirm Game Pass status for Gears E-Day early-access beta (Aug 6) ➕ 2026-08-03 📅 2026-08-05 🔽 #gaming (auto: gaming event 3 days out)
+## 2026-08-04
+- [ ] Fix & redeploy aplaceintimetattoo — "Deploy to EC2" failed again 08-03 (aca4084) ➕ 2026-08-04 📅 2026-08-04 🔺 #dev (auto: GitHub Actions failure email)
+- [ ] Verify FortiOS patched for CVE-2025-68686 (KEV due Aug 10) ➕ 2026-08-04 📅 2026-08-08 ⏫ #dev (auto: CISA KEV deadline)
+- [ ] Direct-sow fall greens/roots/brassicas by Aug 15 ➕ 2026-08-04 📅 2026-08-15 🔼 #garden (auto: zone-6 fall-sow window)
+- [ ] Strip lower 12–18" of tomato foliage (late-blight) ➕ 2026-08-04 📅 2026-08-04 🔽 #garden (auto: late-blight pressure)
+- [ ] Verify PA SBAG FY27 status at dep.pa.gov ➕ 2026-08-04 📅 2026-08-08 🔼 #grants (auto: grant cycle watch)
+- [ ] Install Gears E-Day early beta (Aug 6; check Game Pass) ➕ 2026-08-04 📅 2026-08-06 🔽 #gaming (auto: event ≤14 days)
+- [ ] Prioritize outdoor/field work today (dry before Wed rain) ➕ 2026-08-04 📅 2026-08-04 🔽 #farm (auto: dry weather window)

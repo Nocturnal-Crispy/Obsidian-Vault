@@ -167,3 +167,13 @@ updated: 2026-06-24 11:05
 - [ ] Verify PA SBAG FY27 status at dep.pa.gov ➕ 2026-08-04 📅 2026-08-08 🔼 #grants (auto: grant cycle watch)
 - [ ] Install Gears E-Day early beta (Aug 6; check Game Pass) ➕ 2026-08-04 📅 2026-08-06 🔽 #gaming (auto: event ≤14 days)
 - [ ] Prioritize outdoor/field work today (dry before Wed rain) ➕ 2026-08-04 📅 2026-08-04 🔽 #farm (auto: dry weather window)
+
+## 2026-08-05 (auto-generated)
+- [ ] Fix + redeploy aplaceintimetattoo EC2 deploy; audit SHA-pinning ➕ 2026-08-05 📅 2026-08-05 🔺 #dev (auto: GitHub deploy re-failed 08-03 aca4084, STALE 13d)
+- [ ] Patch/verify Apache Tomcat for CVE-2026-34486 in any client Java stack ➕ 2026-08-05 📅 2026-08-06 ⏫ #dev (auto: CISA KEV batch 08-04)
+- [ ] Verify/patch Fortinet FortiOS CVE-2025-68686 (KEV remediation) ➕ 2026-08-05 📅 2026-08-09 ⏫ #dev (auto: CISA KEV due Aug 10)
+- [ ] Finalize Battle Road Digital mediation prep ➕ 2026-08-05 📅 2026-08-05 🔺 #home (auto: mediation scheduled this week)
+- [ ] Follow up Atty Sarah Kellogg re: Beiter encroachment / boundary restoration ➕ 2026-08-05 📅 2026-08-07 🔼 #home (auto: follow-up pending, tracked)
+- [ ] Direct-sow fall crops (spinach/lettuce/radish/beets/kale) in dry morning window ➕ 2026-08-05 📅 2026-08-05 ⏫ #garden (auto: fall-sow window closes ~Aug 15; storms 1pm)
+- [ ] Scout tomatoes/potatoes for late blight after tonight's rain ➕ 2026-08-05 📅 2026-08-06 🔼 #garden (auto: humid+wet = peak Phytophthora trigger)
+- [ ] Assemble USDA VAPG FY26 application materials (first-come, opens Sep 4) ➕ 2026-08-05 ⏳ 2026-08-25 🔼 #grants (auto: VAPG FY26 opens 09-04, ~$4.3M first-come)

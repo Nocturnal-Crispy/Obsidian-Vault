@@ -1,36 +1,37 @@
 ---
 type: state
-updated: 2026-08-04 08:40
+updated: 2026-08-05 08:40
 ---
 
 # Daily Intelligence — Run State
 
 ## Last runs (per mode)
-- daily: 2026-08-04 (Tuesday, W32) — completed ~08:40. Weather high 84°F / low 64°F, **NO alerts**, **dry sunny window ALL DAY** (rain returns Wed 1–2pm through Thu); NO frost. Triage: **1 action-required (EC2 deploy FAILED AGAIN 08-03, commit aca4084); July Invoice SOW 5033 receipt CONFIRMED by Zeptta (billing resolved)**; rest FYI (FNB/Capital One/Indeed recruiters, USPS, Cinemark, Proton). **Headlines: NEW CISA KEV add CVE-2026-18577 (N-able N-central auth bypass, 08-03) — first since 07-29; Fortinet FortiOS CVE-2025-68686 KEV due Aug 10 (6 days); Opus 5 still tops coding/intelligence; sub-frontier price war (OpenAI Luna $0.20/$1.20, DeepSeek V4-Flash $0.14/$0.28); Gears E-Day early beta Aug 6 (2 days); Mon 08-03 close: Oct live cattle $226.72 (-0.52)/Sep feeder $342.55 (-1.22 SOFT), Sep corn $4.49¼ (+8½)/soy $11.73¾ (+3 FIRM); gasoline ~$3.80 Q3 easing; PA SBAG FY27 STILL unconfirmed (verify); local NEW: Meijer supercenter eyed for Hermitage, Mercer unemployment ~3.8% June, East State St reopened.** 7 generated tasks. Prior run 2026-08-03.
-- weekly: **2026-W31 — DONE 2026-08-02 ✅**. ⚠ W23–W30 NOT reconstructed (still owed as backlog). Next due 2026-W32 (Sun 08-09).
-- monthly: 2026-05 — **STILL OVERDUE: June monthly not run** ⚠; **July monthly (month-end 07-31) also not run** ⚠ — both still owed.
+- daily: 2026-08-05 (Wednesday, W32) — completed ~08:40. Weather high 86°F / low 67°F, **NO alerts**, storms 1–3pm & tonight; dry morning window; NO frost. Triage: standing EC2 deploy FAIL (aca4084) still action-required; **NEW QuickBooks payment scheduled $13,840 from Zeptta (SOW 5033 paid — billing loop fully closed)**; rest FYI (recruiters, Cinemark, USPS). **Headlines: CISA KEV 2nd batch in 2 days — 08-04 added Apache Tomcat CVE-2026-34486, IBM Langflow CVE-2026-9198, N-able N-central CVE-2026-18556 (+ 08-03 CVE-2026-18577); Fortinet FortiOS CVE-2025-68686 KEV due Aug 10 (5 days); Opus 5 still leads, Anthropic named Cuéllar CGAO; Qwen3.8-Max shipped 08-03; 08-04 close: Oct live cattle $227.90 (+1.17)/Sep feeder $346.15 (+3.60 STRONG bounce), Sep corn $4.42¼ (-7)/soy $11.58¾ (-15 SOFT) — cattle RISING/grain DECLINING (reversal from 08-03); gasoline ~$3.80 Q3→$3.40 Q4 easing; VAPG FY26 opens Sep 4 (first-come ~$4.3M); PA SBAG FY27 STILL unconfirmed; Gears E-Day early beta Aug 6 (tomorrow); local NEW Mercer $5K relocation incentive.** 8 generated tasks. Prior run 2026-08-04.
+- weekly: **2026-W31 — DONE 2026-08-02 ✅**. ⚠ W23–W30 NOT reconstructed (backlog). Next due 2026-W32 (Sun 08-09).
+- monthly: 2026-05 — **STILL OVERDUE: June + July monthly not run** ⚠ — both still owed.
 - quarterly: 2026-Q2 — DONE 2026-06-30 ✅. Next due 2026-09-30 (Q3).
 - yearly: 2025 (next due 2026-12-31)
 
 ## Quote rotation
-- last_category: Strategy (2026-08-04, Tuesday) — "Strategy is deciding which fires you'll let burn so the one that matters gets your whole bucket."
-- next_default: Technology (Wednesday 2026-08-05)
+- last_category: Technology (2026-08-05, Wednesday) — "Technology earns its keep the day you stop noticing it — the best tool quietly hands the hour back to you."
+- next_default: Creative Thinking (Thursday 2026-08-06)
 
 ## Tracked story momentum (title → first-seen → last heat → status)
-- **Legal — Battle Road Digital / Atty Fagan (hkm). Mediation THIS week — finalize prep.** → 2026-07-02 → High → **SCHEDULED — mediation this week; prep is live action**
-- **Legal — Encroachment (Beiter). Atty Sarah Kellogg (ekmelaw). Follow-up/call still pending (boundary markers pulled by Cody; line restoration unconfirmed).** → 2026-07-16 → High → **action-required, follow-up pending**
-- **Dev — aplaceintimetattoo. "Deploy to EC2" FAILED AGAIN 08-03 (commit aca4084); prior fail 07-23 (951e255). Fix/redeploy + SHA-pin audit.** → 2026-07-23 → High → **OPEN, STALE ⚠ (12 days), re-failed — action-required**
-- **Billing — Zeptta July Invoice SOW 5033: sent 08-03, receipt CONFIRMED by Rosa Leung 08-03.** → 2026-08-03 → Low → **RESOLVED**
-- **AI — Anthropic Claude Opus 5 leads intelligence (61) + agentic (55.3) + coding boards at $5/$25.** → 2026-08-03 → High → **SUSTAINED**
-- **AI — sub-frontier price war: OpenAI GPT-5.6 Luna $0.20/$1.20 (07-30), DeepSeek V4-Flash 0731 $0.14/$0.28 (07-31), Gemini 3.6 Flash (07-21).** → 2026-08-04 → Medium → RISING
-- **Security — CISA KEV: NEW CVE-2026-18577 N-able N-central auth bypass (08-03, first add since 07-29). Fortinet FortiOS CVE-2025-68686 due Aug 10 (6 days). Cisco FMC CVE-2026-20316 (07-29), Arista VeloCloud CVE-2026-16812 (07-27).** → 2026-07-14 → Critical → SUSTAINED (new add 08-03)
-- Ag-markets: **Mon 08-03 close — Oct live cattle $231.75→$226.72 (SOFT off highs), Sep feeder $342.55; Sep corn $4.49¼ (FIRM +8½), soy $11.73¾. Cattle DECLINING / grain RISING.** → 2026-06-24 → Medium → cattle SOFT / grain FIRM
-- Economy — **Fuel easing: EIA gasoline ~$3.80/gal Q3 (→$3.40 Q4); diesel ~$4.12/gal 2026 annual (Q3 sub-forecasts noisy). Disinflation.** → 2026-08-02 → Medium → SUSTAINED/improving
-- Fed decision **07-29 RESOLVED**: HELD 3.50-3.75% (5th straight), inflation ~4.2%. → 2026-06-25 → High → RESOLVED (this meeting)
-- H5N1 dairy cattle: National Milk Testing Strategy ongoing, CDC risk LOW, no new escalation. → 2026-07-15 → Low → DECLINING/SUSTAINED
-- Policy — OBBBA 1099-NEC $600→$2,000 TY2026 (indexed); 20% QBI made permanent; AI framework (Mar 2026) vs. state patchwork (CO revised law eff. 2027-01-01). → 2026-07-14 → Medium → SUSTAINED
-- Gaming — **Gears of War: E-Day early beta Aug 6–10 / open Aug 13–17; RELEASES Oct 6 2026. Gamescom Aug 26–30 Cologne.** → 2026-07-29 → High → RISING (early beta 2 days out)
+- **Legal — Battle Road Digital / Atty Fagan (hkm). Mediation THIS week — finalize prep.** → 2026-07-02 → High → **SCHEDULED — mediation this week; prep live**
+- **Legal — Encroachment (Beiter). Atty Sarah Kellogg (ekmelaw). Follow-up/call pending (boundary markers pulled by Cody).** → 2026-07-16 → High → **action-required, follow-up pending**
+- **Dev — aplaceintimetattoo "Deploy to EC2" FAILED AGAIN 08-03 (aca4084); prior 07-23 (951e255). Fix/redeploy + SHA-pin audit.** → 2026-07-23 → High → **OPEN, STALE ⚠ (13 days) — action-required**
+- **Billing — Zeptta SOW 5033: sent 08-03, receipt confirmed 08-03, payment scheduled $13,840 (08-04).** → 2026-08-03 → Low → **RESOLVED (payment scheduled)**
+- **AI — Anthropic Opus 5 leads intelligence/agentic/coding at $5/$25; Cuéllar named CGAO 08-04.** → 2026-08-03 → High → **SUSTAINED**
+- **AI — sub-frontier price war: Qwen3.8-Max (08-03), DeepSeek V4-Flash-0731 $0.14/$0.28, OpenAI GPT-5.6 Luna $0.20/$1.20.** → 2026-08-04 → Medium → RISING
+- **Security — CISA KEV: 2nd batch in 2 days — 08-04 Apache Tomcat CVE-2026-34486 + IBM Langflow CVE-2026-9198 + N-able CVE-2026-18556; 08-03 CVE-2026-18577. Fortinet FortiOS CVE-2025-68686 due Aug 10 (5 days). Arista VeloCloud CVE-2026-16812 (07-27).** → 2026-07-14 → Critical → SUSTAINED (fresh adds 08-04)
+- Ag-markets: **08-04 close — Oct live cattle $227.90 (+1.17), Sep feeder $346.15 (+3.60 STRONG bounce); Sep corn $4.42¼ (-7), soy $11.58¾ (-15). Cattle RISING / grain DECLINING (reversal from 08-03).** → 2026-06-24 → Medium → cattle FIRM / grain SOFT
+- Economy — **Fuel easing: EIA gasoline ~$3.80 Q3 → $3.40 Q4 → <$3.10 2027; diesel ~$4.80/gal 2026; Brent ~$74 Q3. Disinflation.** → 2026-08-02 → Medium → SUSTAINED/improving
+- Fed **07-29 RESOLVED**: HELD 3.50–3.75% (5th straight), inflation ~4.2%. → 2026-06-25 → High → RESOLVED (this meeting)
+- H5N1 dairy cattle: National Milk Testing Strategy ongoing, CDC risk LOW. → 2026-07-15 → Low → DECLINING/SUSTAINED
+- Policy — 1099-NEC $600→$2,000 TY2026 (indexed, IRS proposed regs); 1099-K reverts $20K/200; 20% QBI permanent; state AI-compliance patchwork (CA 2026 duties, CO eff 2027-01-01); IRS 126 AI projects. → 2026-07-14 → Medium → SUSTAINED
+- Gaming — **Gears of War: E-Day early beta Aug 6–10 / open Aug 13–17; RELEASES Oct 6 2026. Gamescom Aug 26–30 Cologne.** → 2026-07-29 → High → RISING (early beta tomorrow)
 - Total War closed beta — signed up 07-26; still awaiting key. → 2026-07-27 → Low → SUSTAINED
-- Spotted lanternfly ADULTS active (Jul-Oct), pressing toward Mercer; report 1-888-422-3359 → 2026-07-01 → Low → SUSTAINED/seasonal
-- Garden zone-6 early Aug: fall-sow window OPEN (plant by ~Aug 15); late-blight pressure peaks in Aug humidity; dry today aids sow/scout → 2026-07-01 → Medium → SUSTAINED/seasonal
-- **Local (VERIFIED PA) — NEW: Meijer supercenter eyed for Hermitage; Mercer Co unemployment ~3.8% (June); East State St reopened. Ongoing: Hermitage 2026 first property-tax hike in 35 yrs; CCL Container $16.3M/30 jobs; Linden Pointe/Dermond Rd water.** → 2026-08-01 → Medium → RISING
+- Spotted lanternfly ADULTS active (Jul–Oct), pressing toward Mercer; report 1-888-422-3359. → 2026-07-01 → Low → SUSTAINED/seasonal
+- Garden zone-6 early Aug: fall-sow window OPEN (sow by ~Aug 15); late-blight pressure peaks in Aug humidity (no confirmed US cases yet). → 2026-07-01 → Medium → SUSTAINED/seasonal
+- Grants — **VAPG FY26 opens Sep 4 (first-come ~$4.3M); PA SBAG FY27 unconfirmed; USDA SBIR ag-tech verify.** → 2026-08-05 → Medium → RISING (VAPG 30 days to open)
+- **Local (VERIFIED PA) — NEW: Mercer County towns $5K relocation incentive; Meijer supercenter eyed for Hermitage; 2026 capital projects (paving/stormwater/trails/animal shelter); Hermitage job deadline Aug 7. Ongoing: Mercer unemployment ~3.8%, 2026 property-tax hike, CCL Container $16.3M/30 jobs.** → 2026-08-01 → Medium → RISING

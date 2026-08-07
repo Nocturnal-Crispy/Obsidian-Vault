@@ -177,3 +177,23 @@ updated: 2026-06-24 11:05
 - [ ] Direct-sow fall crops (spinach/lettuce/radish/beets/kale) in dry morning window ➕ 2026-08-05 📅 2026-08-05 ⏫ #garden (auto: fall-sow window closes ~Aug 15; storms 1pm)
 - [ ] Scout tomatoes/potatoes for late blight after tonight's rain ➕ 2026-08-05 📅 2026-08-06 🔼 #garden (auto: humid+wet = peak Phytophthora trigger)
 - [ ] Assemble USDA VAPG FY26 application materials (first-come, opens Sep 4) ➕ 2026-08-05 ⏳ 2026-08-25 🔼 #grants (auto: VAPG FY26 opens 09-04, ~$4.3M first-come)
+
+## 2026-08-06
+- [ ] Scout tomatoes/potatoes for late blight and apply preventive fungicide in today's dry window ➕ 2026-08-06 📅 2026-08-06 ⏫ #garden (auto: Friday storms/humidity → blight risk)
+- [ ] Direct-sow fall crops (spinach/lettuce/radish/turnip) this week ➕ 2026-08-06 📅 2026-08-12 🔼 #garden (auto: fall-sow window closes ~Aug 15)
+- [ ] Patch/verify JetBrains TeamCity for CVE-2026-63077 ➕ 2026-08-06 📅 2026-08-07 ⏫ #dev (auto: CISA KEV 08-05)
+- [ ] Remediate Fortinet FortiOS CVE-2025-68686 before KEV due date ➕ 2026-08-06 📅 2026-08-10 ⏫ #dev (auto: KEV deadline Aug 10)
+- [ ] Fix + redeploy aplaceintimetattoo EC2 pipeline; audit SHA pins ➕ 2026-08-06 📅 2026-08-07 🔺 #dev (auto: deploy failure STALE 14 days)
+- [ ] Save executed Battle Road settlement docs; flag W9 → 1099 TY2026 ➕ 2026-08-06 📅 2026-08-08 🔼 #home (auto: settlement signed 08-05)
+- [ ] Review & respond to Johnson United moving claim #U131-164-6 ➕ 2026-08-06 📅 2026-08-08 🔼 #home (auto: action-required email 08-05)
+- [ ] Prep VAPG FY26 application before Sep 4 first-come open ➕ 2026-08-06 📅 2026-08-28 🔼 #grants (auto: VAPG opens Sep 4)
+
+## 2026-08-07
+- [ ] Reply to A Place in Time Tattoo new-request lead ➕ 2026-08-07 📅 2026-08-07 ⏫ #dev (auto: action-required email 08-07)
+- [ ] Fix & redeploy aplaceintimetattoo EC2 deploy (STALE 15d, live leads) ➕ 2026-08-07 📅 2026-08-08 🔺 #dev (auto: broken deploy + inbound lead)
+- [ ] Scout tomatoes/potatoes for late blight; spray preventively before wet stretch ➕ 2026-08-07 📅 2026-08-07 ⏫ #garden (auto: 80% storms + blight risk)
+- [ ] Confirm/patch client FortiOS CVE-2025-68686 ➕ 2026-08-07 📅 2026-08-09 ⏫ #dev (auto: KEV due Aug 10)
+- [ ] Direct-sow fall crops — window closes ~Aug 15 ➕ 2026-08-07 ⏳ 2026-08-10 🔼 #garden (auto: fall-sow window)
+- [ ] Start VAPG FY26 prep before ~Sep 4 open ➕ 2026-08-07 📅 2026-08-28 🔼 #grants #farm (auto: VAPG FY26 opens ~Sep 4)
+- [ ] Jump into Gears E-Day early beta before Aug 10 ➕ 2026-08-07 📅 2026-08-10 🔽 #gaming (auto: beta ends Aug 10)
+- [ ] Watch July CPI print ➕ 2026-08-07 ⏳ 2026-08-12 🔽 #home (auto: CPI release Aug 12)

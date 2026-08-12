@@ -658,30 +658,4 @@ An AI platform leader (referred to as Jonathan in the call) walked the team thro
 > [52:48] **Others:** Thank you.
 > [52:48] **Others:** Later.
 > [52:49] **Others:** Thank you.
-> [1:03:58] **Me:** Hi, Rochelle. This is Michael. I'm calling actually for two different things.
-> [1:04:03] **Me:** The first thing is that I'm looking to purchase a motorcycle,
-> [1:04:07] **Me:** and I wanted to just verify to see if the seller needs to be on site and with me to the notary
-> [1:04:18] **Me:** to transfer the title to my name or if I'm able to bring a bill of sale and the title signed.
-> [1:04:25] **Me:** Okay, so he needs to notarize it first before I get the... or be available. Okay.
-> [1:04:36] **Me:** Okay, sounds good. And the second is I turned in a paper for a title transfer about two weeks ago
-> [1:04:46] **Me:** for my Mazda 6, and I haven't gotten a call from you guys, so I'm sure you guys haven't gotten a fax back
-> [1:04:57] **Me:** is what my assumption is.
-> [1:04:59] **Me:** Yes.
-> [1:04:59] **Me:** Do you know if... it's an out-of-state title transfer, but I still have a lien on the vehicle,
-> [1:05:10] **Me:** so it went to my... yeah. Does it usually take about two weeks or longer, or should I call them a chase bank?
-> [1:05:37] **Me:** Okay, I'll just leave it. I mean, it's still registered and everything through the other state,
-> [1:05:54] **Me:** so it's not like it's out of legality or anything, so I'll just wait.
-> [1:05:59] **Me:** I'll wait until I hear from you guys. All right, thank you so much. Have a great day. Bye.
-> [1:14:51] **Me:** Yeah, I was calling earlier just to check in on a couple things. Just wanted to see how your firm worked.
-> [1:14:59] **Me:** Basically, just wanted to see if it was appointment only or if you guys are actually open until 9.
-> [1:15:05] **Me:** I plan on coming out and buying a motorcycle around... oh, what is it called?
-> [1:15:14] **Me:** So I saw the E... Hamilton.
-> [1:15:17] **Me:** Hamilton, yeah. And so I... I'm driving from pretty far away, and I know either the owner has to get his title signed and notarized,
-> [1:15:32] **Me:** or we both have to show up to a notary to get the title transferred, so I just wanted to... yeah.
-> [1:15:39] **Me:** Yeah, okay. Yeah, that sounds perfect. Yeah, that would be good. Yeah, I can get that.
-> [1:16:18] **Me:** I do have a motorcycle license. Awesome.
-> [1:16:28] **Me:** Okay, thank you. Yeah, I should be getting out to Hamilton around 6 to look at the bike.
-> [1:16:34] **Me:** I haven't purchased it yet. We're just going over it, but I figured if we can get it done same day, you know, that would be great.
-> [1:16:43] **Me:** All right, thank you.
-> [1:16:45] **Me:** Bye.
-> [1:19:06] **Me:** Can you turn my light on?
+

@@ -197,3 +197,24 @@ updated: 2026-06-24 11:05
 - [ ] Start VAPG FY26 prep before ~Sep 4 open ➕ 2026-08-07 📅 2026-08-28 🔼 #grants #farm (auto: VAPG FY26 opens ~Sep 4)
 - [ ] Jump into Gears E-Day early beta before Aug 10 ➕ 2026-08-07 📅 2026-08-10 🔽 #gaming (auto: beta ends Aug 10)
 - [ ] Watch July CPI print ➕ 2026-08-07 ⏳ 2026-08-12 🔽 #home (auto: CPI release Aug 12)
+
+## 2026-08-09
+- [ ] Verify/patch client FortiOS CVE-2025-68686 before KEV remediation deadline ➕ 2026-08-09 📅 2026-08-09 🔺 #dev (auto: CISA KEV due Aug 10 — tomorrow)
+- [ ] Fix + redeploy aplaceintimetattoo EC2 pipeline; audit SHA pins ➕ 2026-08-09 📅 2026-08-09 🔺 #dev (auto: deploy failure STALE ~17d + live inbound lead)
+- [ ] Reply to A Place in Time Tattoo new-request lead ➕ 2026-08-09 📅 2026-08-09 ⏫ #dev (auto: inbound lead 08-07 still open)
+- [ ] Direct-sow fall crops (spinach/lettuce/radish/beets/kale) in today's dry window ➕ 2026-08-09 📅 2026-08-09 ⏫ #garden (auto: fall-sow window closes ~Aug 15; Monday 70% storms)
+- [ ] Scout + preventive-spray tomatoes/potatoes for late blight in today's dry window ➕ 2026-08-09 📅 2026-08-09 ⏫ #garden (auto: elevated Phytophthora risk before Monday rain)
+- [ ] Follow up Atty Sarah Kellogg re: Beiter encroachment / boundary restoration ➕ 2026-08-09 📅 2026-08-09 🔼 #home (auto: follow-up pending, tracked)
+- [ ] Watch USDA August WASDE + July CPI prints ➕ 2026-08-09 ⏳ 2026-08-12 🔽 #farm (auto: both release Aug 12)
+- [ ] Jump into Gears E-Day early-access beta before it ends ➕ 2026-08-09 📅 2026-08-10 🔽 #gaming (auto: early beta ends Aug 10, 10am PT)
+
+## 2026-08-11
+- [ ] Fix Cruze Release APK build failure (main, ee39e64) ➕ 2026-08-11 📅 2026-08-11 ⏫ #dev (auto: GitHub Actions failure email 08-10)
+- [ ] Redeploy aplaceintimetattoo to EC2 and reply to inbound lead ➕ 2026-08-11 📅 2026-08-11 🔺 #dev (auto: stale open deploy ~19d + live lead)
+- [ ] Confirm FortiOS CVE-2025-68686 remediation completed — KEV deadline (Aug 10) now passed ➕ 2026-08-11 📅 2026-08-11 ⏫ #dev (auto: CISA KEV deadline closed unverified)
+- [ ] Direct-sow fall greens in Wednesday's dry window — window closes ~Aug 15 ➕ 2026-08-11 ⏳ 2026-08-12 🔼 #garden (auto: closing fall-sow window + Wed dry break)
+- [ ] Scout tomatoes/potatoes for late blight after today's storms ➕ 2026-08-11 📅 2026-08-12 🔽 #garden (auto: elevated late-blight risk)
+- [ ] Set grain-marketing levels before USDA WASDE / Crop Production (Aug 12 12pm ET) ➕ 2026-08-11 ⏳ 2026-08-12 🔼 #farm (auto: WASDE Aug 12)
+- [ ] Note July CPI print (8:30am ET) for rate outlook ➕ 2026-08-11 ⏳ 2026-08-12 🔽 #home (auto: CPI Aug 12)
+- [ ] Pre-install + block time for Gears E-Day open beta (Aug 13–17) ➕ 2026-08-11 ⏳ 2026-08-13 🔽 #gaming (auto: gaming event 2 days out)
+- [ ] Follow up Atty Sarah Kellogg re: Beiter encroachment ➕ 2026-08-11 📅 2026-08-11 🔼 #home (auto: tracked follow-up pending)
